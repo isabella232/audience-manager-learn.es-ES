@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '725'
 ht-degree: 5%
 
 ---
@@ -126,6 +126,9 @@ ht-degree: 5%
       + [Crear y configurar destinos basados en personas](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [Explicación y configuración del destino basado en personas de LinkedIn](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [Explicación y configuración de la coincidencia de clientes con clientes de Google Destino basado en personas](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
++ Informes {#reports}
+   + [Uso de informes generales con características y segmentos](reports/using-general-reports-with-traits-and-segments.md)
+   + [Uso de informes de tendencias con características y segmentos](reports/using-trended-reports-with-traits-and-segments.md)
 + Otras integraciones {#other-integrations}
    + Integración con Ad Cloud {#integrating-with-ad-cloud}
       + [Integración de Adobe Advertising Cloud y Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
