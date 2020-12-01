@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Sugerencias al cliente: Cómo sacar el máximo provecho de las reglas de combinación de Perfiles
 
-**Varun Kalra**, consultor de soluciones múltiples de **acordeente**, ofrece sugerencias para elegir y utilizar reglas de combinación de Perfiles (PMR).
+**Varun Kalra**, consultor de soluciones múltiples de  **acordeente**, ofrece sugerencias para elegir y utilizar reglas de combinación de Perfiles (PMR).
 
 Varun Kalra es un consultor de varias soluciones que trabaja en un Socio de Soluciones de Adobe con sede en Sídney - Accord. Varun trabaja principalmente en proyectos de Audience Manager, Adobe Analytics y AEP que implican descubrimiento, implementación, soporte y habilitación de datos. Las sugerencias incluyen temas como:
 
