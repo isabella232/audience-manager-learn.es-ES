@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Creación de segmentos para [!UICONTROL People-Based Destinations]
 
-Este vídeo lo acompaña durante la creación de un [!UICONTROL segment] Audience Manager para el que se usará [!UICONTROL People-Based Destinations].
+Este vídeo lo acompaña durante la creación de un [!UICONTROL segment] Audience Manager para [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
