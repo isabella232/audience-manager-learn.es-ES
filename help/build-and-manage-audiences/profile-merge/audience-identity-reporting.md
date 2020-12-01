@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Informes
 
-[!DNL Audience Identity] El sistema de informes permite a los clientes informar sobre la población total de una identidad [!UICONTROL trait] o [!UICONTROL segment] por persona o familia. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
+[!DNL Audience Identity] Sistema de informes permite a los clientes informar sobre la población total de una identidad  [!UICONTROL trait] o  [!UICONTROL segment] por persona o familia. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
