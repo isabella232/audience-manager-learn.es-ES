@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Asignación de segmentos a un destino basado en dispositivo
 
-Para enviar un segmento de audiencia a un DSP u otro socio, debe asignar el segmento a un destino en Audience Manager. Este vídeo recorre la asignación de segmentos a un destino basado en dispositivo, también conocido como destino de servidor a servidor __ .
+Para enviar un segmento de audiencia a un DSP u otro socio, debe asignar el segmento a un destino en Audience Manager. Este vídeo recorre la asignación de segmentos a un destino basado en dispositivo, también conocido como _destino de servidor a servidor_.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
