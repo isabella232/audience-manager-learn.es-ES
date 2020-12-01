@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Explicación de la interfaz de tasa de coincidencia en el Audience Manager
 
-Este vídeo lo acompaña a través de la [!UICONTROL destination] interfaz, mostrando y explicando los números asociados con las tasas de coincidencia y [!DNL addressable audiences].
+Este vídeo lo acompaña a través de la interfaz [!UICONTROL destination], mostrando y explicando los números asociados con las tasas de coincidencia y [!DNL addressable audiences].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
