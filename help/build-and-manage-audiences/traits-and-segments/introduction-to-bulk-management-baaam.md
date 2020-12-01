@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Introducción a la administración masiva (BAAAM)
 
-Obtenga información sobre la herramienta Audience Manager [!UICONTROL Bulk Management] , conocida comúnmente como &quot;BAAAM&quot;. Consulte cómo autenticarse para poder utilizar la hoja de BAAAM para crear, editar y eliminar características y segmentos mediante la API de REST.
+Obtenga información sobre la herramienta Audience Manager [!UICONTROL Bulk Management], conocida comúnmente como &quot;BAAAM&quot;. Consulte cómo autenticarse para poder utilizar la hoja de BAAAM para crear, editar y eliminar características y segmentos mediante la API de REST.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
