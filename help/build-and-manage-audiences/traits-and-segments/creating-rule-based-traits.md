@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Creación de características basadas en reglas
 
-Aprenda a usar el [!UICONTROL Trait Builder] en la interfaz de usuario del Audience Manager para crear una característica basada en reglas, lo que le permite capturar la actividad en tiempo real en perfiles de Audience Manager.
+Aprenda a utilizar [!UICONTROL Trait Builder] en la interfaz de usuario del Audience Manager para crear una característica basada en reglas, lo que le permite capturar la actividad en tiempo real en perfiles del Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
