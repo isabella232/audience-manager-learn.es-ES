@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Cómo identificar el subdominio Audience Manager {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Al implementar algunas funciones de Experience Cloud, debe saber qué es su Audience Manager `Subdomain` (también conocido a veces como su `client ID` o `Partner ID`). En este vídeo, le mostraremos dos lugares donde puede obtener esta información en la interfaz de usuario del Audience Manager.
+Al implementar algunas funciones de Experience Cloud, debe saber qué es su Audience Manager `Subdomain` (también denominado `client ID` o `Partner ID`). En este vídeo, le mostraremos dos lugares donde puede obtener esta información en la interfaz de usuario del Audience Manager.
 
-## Dejando de lado el final... {#giving-away-the-ending}
+## Dando el final... {#giving-away-the-ending}
 
-En caso de que prefiera simplemente saltar y encontrarlo sin ver este breve vídeo, puede encontrar el vídeo `Partner Subdomain` en dos lugares en la interfaz de usuario:
+En caso de que prefiera ir y encontrarlo sin ver este breve vídeo, puede encontrar su `Partner Subdomain` en dos lugares de la interfaz de usuario:
 
 1. Si ya ha creado un [!UICONTROL rule-based] [!UICONTROL trait], haga clic en **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] está junto a la [!UICONTROL trait] en la lista de [!UICONTROL traits] en esa carpeta y la dirección URL incluirá su subdominio en la dirección URL.
-1. Si va a la interfaz **[!UICONTROL Tools]** > **[!UICONTROL Tags]** y hace clic **[!UICONTROL Get code]** para el contenedor, el subdominio se encuentra al final de la línea Akamai
+   [!UICONTROL Get Trait URL] está junto a  [!UICONTROL trait] en la lista de  [!UICONTROL traits] en esa carpeta y la dirección URL incluirá su subdominio en la dirección URL.
+1. Si entra en la interfaz **[!UICONTROL Tools]** > **[!UICONTROL Tags]** y hace clic en **[!UICONTROL Get code]** para el contenedor, el subdominio se encuentra hacia el final de la línea Akamai
 
 Si no puede encontrarlo rápidamente con esas referencias rápidas, el vídeo es un compromiso de poco tiempo. :)
 
