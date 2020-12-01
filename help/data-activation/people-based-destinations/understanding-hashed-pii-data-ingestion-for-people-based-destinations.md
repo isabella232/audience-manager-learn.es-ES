@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Información sobre la ingestión de datos PII con hash para [!UICONTROL People-Based Destinations]
+# Explicación de la ingestión de datos PII con hash para [!UICONTROL People-Based Destinations]
 
-Este vídeo trata sobre las cosas que debe tener en cuenta a medida que se prepara para ingerir PII en Audience Manager para [!UICONTROL People-Based Destinations].
+Este vídeo tratará los aspectos que debe tener en cuenta a medida que se prepara para ingerir PII en Audience Manager para [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
