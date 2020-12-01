@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Supervisión y Sistema de informes del uso de Actividades
 
-En este vídeo explicaremos cómo utilizar el [!DNL Activity Usage Report]programa, incluidas las opciones de visualización y descarga.
+En este vídeo explicaremos cómo utilizar el [!DNL Activity Usage Report], incluidas las opciones de visualización y descarga.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
