@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Crear y configurar [!UICONTROL People-based Destinations]
 
-Este vídeo le proporciona primero información sobre los requisitos previos para crear su [!DNL People-Based Destination]sitio y, a continuación, le muestra cómo configurar un [!UICONTROL Integrated Account] (vínculo al socio, p. ej. [!DNL Facebook]). Luego lo lleva a través de la configuración interna del producto del [!UICONTROL destination] mismo.
+Este video primero le proporciona información sobre los requisitos previos para crear su [!DNL People-Based Destination] y luego también le muestra cómo configurar un [!UICONTROL Integrated Account] (vínculo al socio, por ejemplo: [!DNL Facebook]). Luego lo lleva a través de la configuración interna del producto del [!UICONTROL destination] mismo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
