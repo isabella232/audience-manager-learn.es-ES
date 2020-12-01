@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Explicación de los tipos [!UICONTROL Destination] de Audience Manager
+# Explicación de los tipos de Audience Manager [!UICONTROL Destination]
 
-Este vídeo le guiará a través de los distintos tipos de [!UICONTROL destinations] contenido en Adobe Audience Manager y le dará ejemplos de cuándo utilizar cada uno de ellos.
+Este vídeo le guiará por los diferentes tipos de [!UICONTROL destinations] en Adobe Audience Manager y le dará ejemplos de cuándo utilizaría cada uno de ellos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Puede descargar una lista de [!UICONTROL destination] socios servidor a servidor [AQUÍ](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
+Puede descargar una lista de socios [!UICONTROL destination] servidor a servidor [AQUÍ](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
 
 Para obtener más información, visite la [documentación](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
