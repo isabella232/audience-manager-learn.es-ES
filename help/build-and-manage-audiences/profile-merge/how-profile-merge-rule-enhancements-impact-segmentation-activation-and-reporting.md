@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Impacto, Activación y Sistema de informes [!UICONTROL Profile Merge Rule] de las mejoras [!UICONTROL Segmentation]y
+# Impacto de las [!UICONTROL Profile Merge Rule] mejoras [!UICONTROL Segmentation], Activación y Sistema de informes
 
-Explicación de cómo [!UICONTROL Profile Merge Rule] las mejoras afectarán al total [!UICONTROL Trait] y a las poblaciones [!UICONTROL Segment] en la interfaz de usuario del Audience Manager.
+Explicación de cómo [!UICONTROL Profile Merge Rule] las mejoras afectarán a las poblaciones totales [!UICONTROL Trait] y [!UICONTROL Segment] en la interfaz de usuario del Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)
