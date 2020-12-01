@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Interpretar [!DNL Audience Identity Reporting]
 
-[!DNL Audience Identity Reporting] proporciona a los clientes la capacidad de informar sobre la población total de una identidad [!UICONTROL trait] o [!UICONTROL segment] por persona/hogar. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
+[!DNL Audience Identity Reporting] proporciona a los clientes la capacidad de informar sobre la población total de una identidad  [!UICONTROL trait] o  [!UICONTROL segment] por persona/familia. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
