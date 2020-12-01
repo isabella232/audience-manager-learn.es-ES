@@ -18,11 +18,11 @@ ht-degree: 31%
 ---
 
 
-# Mejora tu AAM [!UICONTROL Segments] con [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Mejorando su AAM [!UICONTROL Segments] con [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-With [!DNL Trait Recommendations], when you build or edit a [!UICONTROL segment] in [!DNL Segment Builder], you get recommendations on additional [!UICONTROL traits] you can include, that are similar to the [!UICONTROL traits] in the [!UICONTROL segment] rule.
+Con [!DNL Trait Recommendations], cuando genera o edita un [!UICONTROL segment] en [!DNL Segment Builder], obtiene recomendaciones sobre [!UICONTROL traits] adicionales que puede incluir, que son similares a [!UICONTROL traits] en la regla [!UICONTROL segment].
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] trabaje tanto en [!UICONTROL first party] los datos como en los [!UICONTROL third party] , de modo que pueda incluir recomendaciones adicionales [!UICONTROL traits] y aumentar la audiencia del destinatario.\
+[!DNL Trait Recommendations] trabaje tanto en  [!UICONTROL first party] datos como en  [!UICONTROL third party] datos, para poder incluir recomendaciones adicionales  [!UICONTROL traits] y aumentar la audiencia del destinatario.\
 Para obtener más información sobre esta función, visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
