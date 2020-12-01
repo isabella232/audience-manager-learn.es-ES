@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Sugerencias al cliente: optimizaciones sobre características y segmentos
 
-**Matt Vittorioso**, especialista en mercadotecnia en **[!DNL Ally Financial]**, ofrece consejos sobre la administración de características y segmentos.
+**Matt Vittorioso**, especialista en mercadotecnia en  **[!DNL Ally Financial]**, ofrece consejos sobre la administración de características y segmentos.
 
 Matt Vittorioso es un especialista en marketing en el equipo de marketing digital de Ally Financial. Dirige el equipo de segmentación digital y está a cargo de todos los datos que entran y salen del administrador de audiencias. Matt trabaja en estrecha colaboración con todas las partes interesadas internas y socios de agencias externas para garantizar que los segmentos adecuados se construyan para todas las campañas de Ally. Las sugerencias incluyen temas como:
 
