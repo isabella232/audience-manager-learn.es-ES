@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
+source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '733'
 ht-degree: 5%
 
 ---
@@ -28,6 +28,8 @@ ht-degree: 5%
 + Configuración y administración {#setup-and-admin}
    + Fuentes de datos {#data-sources}
       + [Crear una fuente de datos para datos de Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+   + Administración de usuarios {#user-management}
+      + [Configuración de permisos con Control de acceso basado en roles](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Administración de datos y privacidad {#data-governance-and-privacy}
       + [Validación global de ID de dispositivo](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [Compatibilidad con IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
