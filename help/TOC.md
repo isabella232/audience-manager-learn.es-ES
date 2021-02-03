@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
 + Configuración y administración {#setup-and-admin}
    + Fuentes de datos {#data-sources}
       + [Crear una fuente de datos para datos de Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [Creación de una fuente de datos entre dispositivos y autenticación](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Administración de usuarios {#user-management}
       + [Configuración de permisos con Control de acceso basado en roles](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Administración de datos y privacidad {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 4%
    + [Uso de los administradores de etiquetas para implementar Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Cómo identificar su ID de socio o subdominio](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Uso de las prácticas recomendadas en páginas SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Integración de datos sin conexión {#integrating-offline-data}
+   + [Formato e ingesta de datos basados en archivos](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Pasos para la ingesta de datos basados en archivos](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementación móvil {#mobile-implementation}
    + [Implementar en aplicaciones de iOS Swift](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Implementar en aplicaciones de iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
