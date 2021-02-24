@@ -1,17 +1,18 @@
 ---
 title: Carga masiva del uso de datos en el Audience Marketplace
 description: 'A medida que informe del uso de datos de terceros y de segundo nivel en el Audience Marketplace, es posible que tenga suficientes entradas para asegurarse de que no desea hacerlo a mano. En este vídeo, aprenderá a utilizar la herramienta de carga masiva de sistemas de informes de uso de datos, para que pueda informar fácilmente sobre el uso de los datos, incluso si tiene muchos elementos que actualizar. '
-feature: audience marketplace
+feature: Mercado de audiencia
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
