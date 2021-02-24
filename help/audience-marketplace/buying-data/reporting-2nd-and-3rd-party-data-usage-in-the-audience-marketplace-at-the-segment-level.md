@@ -1,17 +1,18 @@
 ---
 title: Uso de datos de sistema de informes de terceros y de terceros en Audience Marketplace a nivel de segmento
 description: Este vídeo muestra un nuevo método de uso de datos de sistema de informes en la sección Cuentas a Pagar de la interfaz de usuario del Audience Marketplace. Además del proceso existente de sistema de informes de fuentes, ahora se pueden enviar impresiones mensuales a nivel de segmento, lo que elimina la necesidad de realizar cálculos sin conexión para la atribución de costes.
-feature: audience marketplace
+feature: Mercado de audiencia
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25522.jpg
 kt: 1758
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
