@@ -1,17 +1,18 @@
 ---
 title: Uso de modelos similares para ampliar el inventario vendido a partir de los datos de origen
 description: En este tutorial, explicaremos los pasos que debe seguir para configurar y utilizar modelos parecidos a los de búsqueda, de modo que pueda crear nuevas audiencias similares y venderlas como una extensión a su segmento de conversión.
-feature: algorithmic models
+feature: modelos algorítmicos
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
