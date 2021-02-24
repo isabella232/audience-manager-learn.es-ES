@@ -1,17 +1,18 @@
 ---
 title: Exclusión de características en modelos algorítmicos (similares)
 description: 'En este vídeo aprenderá cómo y por qué excluir características específicas (o grupos de) de un modelo algorítmico (similar). '
-feature: algorithmic models
+feature: modelos algorítmicos
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25569.jpg
 kt: 1759
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Exclusión de [!UICONTROL Traits] en Algoritmo (Look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
-En este vídeo aprenderá cómo y por qué excluir [!UICONTROL traits] específicos (o grupos de) &lt;a0/> de un algoritmo (similar) [!UICONTROL Model].
+En este vídeo aprenderá cómo y por qué excluir [!UICONTROL traits] específicos (o grupos de)  de un algoritmo (similar) [!UICONTROL Model].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
