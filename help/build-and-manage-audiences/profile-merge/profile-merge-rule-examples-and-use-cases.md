@@ -1,17 +1,18 @@
 ---
 title: Ejemplos de reglas de combinación de perfiles y casos de uso
 description: En este vídeo verá ejemplos de reglas de combinación de Perfiles y su significado, así como los casos de uso para los que se resuelven las reglas de combinación de Perfiles.
-feature: profile merge
+feature: Combinación de perfiles
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28975.jpg
 kt: 3709
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
