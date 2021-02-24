@@ -1,17 +1,18 @@
 ---
 title: Creación de un modelo de apariencia individual en AAM
 description: En este vídeo aprenderá a crear un modelo de origen similar para que pueda encontrar más visitantes que se parezcan a los convertidores.
-feature: algorithmic models
+feature: modelos algorítmicos
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23504.jpg
 kt: 1805
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
