@@ -1,26 +1,27 @@
 ---
-title: Uso de informes Audience Optimization para comprender el rendimiento de los medios
-description: Conozca cómo utilizar los informes de Audience Optimization para mejorar sus campañas, para saber dónde invertir sus dólares de mercadotecnia y dónde dejar de invertir. También aprenda a determinar el límite de frecuencia óptimo y a encontrar otras joyas en estos informes.
-feature: audience optimization reports
+title: Uso de informes de optimización de Audiencia para comprender el rendimiento de los medios
+description: Aprenda a utilizar los informes de optimización de Audiencia para mejorar sus campañas, a saber dónde invertir los dólares de marketing y dónde dejar de invertir. Además, aprenda a determinar el límite óptimo de frecuencia y encontrar otras gemas en estos informes.
+feature: Informes de optimización de Audiencia
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330401.jpg
 kt: 6838
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 3b0e5754a857160fd0dc0d2d97f7ea18ba71bf46
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 2%
 
 ---
 
 
-# Uso de informes Audience Optimization para comprender el rendimiento de los medios
+# Uso de informes de optimización de Audiencia para comprender el rendimiento de los medios
 
-Conozca cómo utilizar los informes de Audience Optimization para mejorar sus campañas, para saber dónde invertir sus dólares de mercadotecnia y dónde dejar de invertir. También aprenda a determinar el límite de frecuencia óptimo y a encontrar otras joyas en estos informes.
+Aprenda a utilizar los informes de optimización de Audiencia para mejorar sus campañas, a saber dónde invertir los dólares de marketing y dónde dejar de invertir. Además, aprenda a determinar el límite óptimo de frecuencia y encontrar otras gemas en estos informes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
