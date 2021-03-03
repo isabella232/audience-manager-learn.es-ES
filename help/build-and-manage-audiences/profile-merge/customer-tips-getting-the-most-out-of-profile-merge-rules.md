@@ -1,31 +1,32 @@
 ---
-title: 'Sugerencias al cliente: Cómo sacar el máximo provecho de las reglas de combinación de Perfiles'
-description: Varun Kalra, consultor de soluciones múltiples de acordeente, ofrece sugerencias sobre cómo elegir y utilizar las reglas de combinación de Perfiles (PMR).
-feature: profile merge
+title: 'Sugerencias al cliente: Aprovechamiento al máximo de las reglas de combinación de perfiles'
+description: Varun Kalra, consultor de soluciones múltiples en Acordeante, ofrece sugerencias para elegir y usar reglas de combinación de perfiles (PMR).
+feature: Combinación de perfiles
 topics: null
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: daefaa6b0d81d1c5246ffec7897feb7f2375aee8
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 
-# Sugerencias al cliente: Cómo sacar el máximo provecho de las reglas de combinación de Perfiles
+# Sugerencias al cliente: Aprovechamiento al máximo de las reglas de combinación de perfiles
 
-**Varun Kalra**, consultor de soluciones múltiples de  **acordeente**, ofrece sugerencias para elegir y utilizar reglas de combinación de Perfiles (PMR).
+**Varun Kalra**, consultor de soluciones múltiples en  **Cordedant**, ofrece sugerencias para elegir y usar reglas de combinación de perfiles (PMR).
 
-Varun Kalra es un consultor de varias soluciones que trabaja en un Socio de Soluciones de Adobe con sede en Sídney - Accord. Varun trabaja principalmente en proyectos de Audience Manager, Adobe Analytics y AEP que implican descubrimiento, implementación, soporte y habilitación de datos. Las sugerencias incluyen temas como:
+Varun Kalra es un consultor de soluciones múltiples que trabaja en un socio de soluciones de Adobe con sede en Sídney, Acordeante. Varun funciona principalmente en proyectos de Audience Manager, Adobe Analytics y AEP que implican descubrimiento de datos, implementación, soporte y activación. Las sugerencias incluyen temas como:
 
 * Identificación de objetivos de campaña para la configuración de PMR
-* Análisis más profundo en un caso de uso de objetivo
+* Análisis de un caso de uso de segmentación
 * Casos de uso para varias configuraciones de PMR
 
-[Lea las Sugerencias de Varun en la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Lea los consejos de Varun en la Comunidad de Experience League .](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
