@@ -1,32 +1,33 @@
 ---
-title: Creación de un modelo de apariencia individual en AAM
-description: En este vídeo aprenderá a crear un modelo de origen similar para que pueda encontrar más visitantes que se parezcan a los convertidores.
-feature: modelos algorítmicos
+title: Creación de un modelo de similitud de origen en AAM
+description: En este vídeo aprenderá a crear un modelo de similitud de origen, de modo que pueda encontrar más visitantes que se parezcan a sus convertidores.
+feature: Modelos algorítmicos
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
 
-# Creación de un [!UICONTROL First Party] Look-Alike [!UICONTROL Model] en AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Creación de un [!UICONTROL First Party] similitud [!UICONTROL Model] en AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-En este vídeo aprenderá a crear un [!UICONTROL first party] parecido a [!UICONTROL model] para que pueda encontrar más de sus propios visitantes que se parezcan a sus convertidores.
+En este vídeo, aprenderá a crear un [!UICONTROL first party] parecido [!UICONTROL model] para que pueda encontrar más de sus propios visitantes que se parezcan a sus convertidores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
-Los casos de uso para esto incluyen:
+Algunos ejemplos prácticos de esto son:
 
-* Como editor, si el inventario de &quot;convertidores&quot; está agotado, puede ampliarlo vendiendo también esta audiencia similar.
-* Para aquellos que se parecen a sus convertidores pero aún no lo han hecho, déles marketing específico o experiencias en el sitio.
+* Como editor, si el inventario de &quot;convertidores&quot; está agotado, también puede ampliarlo vendiendo esta audiencia similar.
+* Para aquellos que se parecen a sus convertidores pero aún no lo han hecho, asígneles experiencias o marketing específicos en el sitio.
 
-Un beneficio adicional aquí es que esto es totalmente gratis para usted, porque usted sólo está usando datos que usted posee. Esto, por supuesto, ayuda a maximizar sus ganancias.
+Una ventaja añadida aquí es que esto es totalmente gratuito para usted, ya que solo está utilizando datos de su propiedad. Esto, por supuesto, ayuda a maximizar sus ganancias.
