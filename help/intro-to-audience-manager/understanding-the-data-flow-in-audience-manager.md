@@ -1,25 +1,26 @@
 ---
-title: Explicación del flujo de datos en el Audience Manager
-description: Este vídeo le ayuda a comprender Adobe Audience Manager describiendo el flujo de datos dentro, a través y fuera de la aplicación.
-feature: overview
+title: Explicación del flujo de datos en Audience Manager
+description: Este vídeo le ayuda a comprender Adobe Audience Manager, ya que describe el flujo de datos dentro, a través y fuera de la aplicación.
+feature: Información general
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
 
-# Explicación del flujo de datos en el Audience Manager
+# Explicación del flujo de datos en Audience Manager
 
-Este vídeo le ayuda a comprender Adobe Audience Manager describiendo el flujo de datos dentro, a través y fuera de la aplicación.
+Este vídeo le ayuda a comprender Adobe Audience Manager, ya que describe el flujo de datos dentro, a través y fuera de la aplicación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
