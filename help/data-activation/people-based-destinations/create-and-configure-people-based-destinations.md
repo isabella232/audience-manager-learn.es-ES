@@ -1,18 +1,19 @@
 ---
 title: Crear y configurar destinos basados en personas
-description: Este vídeo le proporciona primero información sobre los requisitos previos para crear su destino basado en personas y, a continuación, le muestra cómo configurar una cuenta integrada (vínculo al socio, por ejemplo, Facebook). A continuación, le guiará a través de la configuración interna del producto del destino mismo.
-feature: people-based destinations
+description: En primer lugar, este vídeo le proporciona información sobre los requisitos previos para crear su destino basado en personas y, a continuación, también le muestra cómo configurar una cuenta integrada (vínculo al socio, por ejemplo, Facebook). A continuación, le guía por la configuración del producto del destino en sí.
+feature: '"Destinos basados en personas"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # Crear y configurar [!UICONTROL People-based Destinations]
 
-Este video primero le proporciona información sobre los requisitos previos para crear su [!DNL People-Based Destination] y luego también le muestra cómo configurar un [!UICONTROL Integrated Account] (vínculo al socio, por ejemplo: [!DNL Facebook]). Luego lo lleva a través de la configuración interna del producto del [!UICONTROL destination] mismo.
+En primer lugar, este vídeo le proporciona información sobre los requisitos previos para crear su [!DNL People-Based Destination] y, a continuación, también le muestra cómo configurar un [!UICONTROL Integrated Account] (vínculo al socio, p. ej. [!DNL Facebook]). A continuación, lo acompaña durante la configuración del producto del [!UICONTROL destination] mismo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
