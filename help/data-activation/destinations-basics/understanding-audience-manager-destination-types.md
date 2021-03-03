@@ -1,29 +1,30 @@
 ---
 title: Explicación de los tipos de destino de Audience Manager
-description: Este vídeo le guiará por los distintos tipos de destinos en Adobe Audience Manager y le dará ejemplos de cuándo utilizar cada uno de ellos.
-feature: destination basics
+description: Este vídeo muestra los diferentes tipos de destinos de Adobe Audience Manager y proporciona ejemplos de cuándo utilizar cada uno.
+feature: Conceptos básicos de destino
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 
-# Explicación de los tipos de Audience Manager [!UICONTROL Destination]
+# Explicación de los tipos [!UICONTROL Destination] de Audience Manager
 
-Este vídeo le guiará por los diferentes tipos de [!UICONTROL destinations] en Adobe Audience Manager y le dará ejemplos de cuándo utilizaría cada uno de ellos.
+Este vídeo le guiará por los diferentes tipos de [!UICONTROL destinations] en Adobe Audience Manager y le dará ejemplos de cuándo utilizar cada uno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Puede descargar una lista de socios [!UICONTROL destination] servidor a servidor [AQUÍ](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
+Puede descargar una lista de [!UICONTROL destination] socios [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) de servidor a servidor.
 
-Para obtener más información, visite la [documentación](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
+Para obtener más información, consulte la [documentación](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
