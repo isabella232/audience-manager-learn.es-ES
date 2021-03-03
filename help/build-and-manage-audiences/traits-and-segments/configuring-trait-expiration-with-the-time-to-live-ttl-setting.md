@@ -1,25 +1,26 @@
 ---
-title: Configuración de la caducidad de rasgo con la configuración del tiempo de vida (TTL)
-description: Una de las opciones de configuración al crear características es la configuración "TTL" o Tiempo de vida, que es una caducidad de pertenencia a la característica si no se realiza la reclasificación dentro del período de tiempo especificado. Este vídeo muestra cómo ver y configurar esta función.
-feature: traits
+title: Configuración de la caducidad del rasgo con la configuración de tiempo de vida (TTL)
+description: Una de las opciones al crear características es el ajuste "TTL" o Tiempo de vida, que es una caducidad de la pertenencia al rasgo si no se vuelve a calificar dentro del período de tiempo especificado. Este vídeo muestra cómo ver y configurar esta función.
+feature: 'Rasgos '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329381.jpg
 kt: 6782
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 07a6261cc56dece555e6454908aac014afe6d8be
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 
-# Configuración de la caducidad de rasgo con la configuración del tiempo de vida (TTL)
+# Configuración de la caducidad del rasgo con la configuración de tiempo de vida (TTL)
 
-Una de las opciones de configuración al crear características es la configuración &quot;TTL&quot; o [!UICONTROL Time to Live], que es una caducidad de pertenencia a la característica si no vuelve a calificar dentro del período de tiempo especificado. Este vídeo muestra cómo ver y configurar esta función.
+Una de las opciones al crear características es la configuración &quot;TTL&quot; o [!UICONTROL Time to Live], que es una caducidad de la pertenencia al rasgo si no vuelve a clasificarse dentro del período de tiempo especificado. Este vídeo muestra cómo ver y configurar esta función.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
