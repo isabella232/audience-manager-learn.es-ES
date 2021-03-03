@@ -3,16 +3,18 @@ title: Explicación de los rasgos en CDP en tiempo real para usuarios de Audienc
 description: Al pasar de Audience Manager a la plataforma de datos del cliente en tiempo real, resulta útil comprender las diferencias de conceptos. Este vídeo trata las características de Audience Manager y el equivalente en CDP en tiempo real.
 feature: Integración de plataforma
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331900.jpg
 kt: 7201
+topic: Integraciones
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 286e47e5c32f0fb90fb00a39248022a4ca9d9b7a
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
