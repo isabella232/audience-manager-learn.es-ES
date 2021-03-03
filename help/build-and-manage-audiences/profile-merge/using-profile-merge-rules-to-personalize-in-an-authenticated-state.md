@@ -1,18 +1,19 @@
 ---
-title: Uso de reglas de combinación de Perfiles para personalizar en un estado autenticado
-description: Proporcione a sus clientes que han iniciado sesión una experiencia personalizada mediante estos ajustes de la regla de combinación de Perfiles.
-feature: profile merge
+title: Uso de reglas de combinación de perfiles para personalizar en un estado autenticado
+description: Ofrezca a sus clientes conectados una experiencia personalizada utilizando esta configuración de regla de combinación de perfiles.
+feature: Combinación de perfiles
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # Uso de [!UICONTROL Profile Merge Rules] para personalizar en un estado autenticado
 
-Proporcione a sus clientes que han iniciado sesión una experiencia personalizada mediante estos ajustes de la regla de combinación de Perfiles.
+Ofrezca a sus clientes conectados una experiencia personalizada utilizando esta configuración de regla de combinación de perfiles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)
