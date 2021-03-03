@@ -1,25 +1,26 @@
 ---
-title: Uso de la Vista de código para crear y editar características
-description: Aprenda a utilizar la vista de código al crear nuevas características o al editar las ya existentes. La vista de código es una alternativa al Generador de Expresiones al establecer la expresión de rasgos.
-feature: traits
+title: Uso de la vista de código para crear y editar características
+description: Aprenda a utilizar la vista de código al crear nuevas características o al editar las existentes. La vista de código es una alternativa al Generador de expresiones al establecer la expresión de características.
+feature: 'Rasgos '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326613.jpg
 kt: 6441
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 66d67fb8089b99155387c34a792063f41387bdaf
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
 
-# Uso de la Vista de código para crear y editar características
+# Uso de la vista de código para crear y editar características
 
-Aprenda a utilizar la vista de código al crear nuevas características o al editar las ya existentes. La vista de código es una alternativa al Generador de Expresiones al establecer la expresión de rasgos.
+Aprenda a utilizar la vista de código al crear nuevas características o al editar las existentes. La vista de código es una alternativa al Generador de expresiones al establecer la expresión de características.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)
