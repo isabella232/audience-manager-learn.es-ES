@@ -1,25 +1,26 @@
 ---
 title: Uso de la Vista de código al crear segmentos
-description: Aprenda a utilizar la vista de código para definir segmentos, permitiéndole crear combinaciones de características complejas, incluso mediante el uso de actualización y frecuencia.
-feature: segments
+description: Aprenda a utilizar la vista de código para definir segmentos, lo que le permite crear combinaciones de rasgos complejas, incluso mediante el uso de actualización y frecuencia.
+feature: 'Segmentos '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 8650806b99321f9ca64ceb79f6e3ecdd7013299e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
 
 # Uso de la Vista de código al crear segmentos
 
-Aprenda a utilizar la vista de código para definir segmentos, permitiéndole crear combinaciones de características complejas, incluso mediante el uso de actualización y frecuencia.
+Aprenda a utilizar la vista de código para definir segmentos, lo que le permite crear combinaciones de rasgos complejas, incluso mediante el uso de actualización y frecuencia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)
