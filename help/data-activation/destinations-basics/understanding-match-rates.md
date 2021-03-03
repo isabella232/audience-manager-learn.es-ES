@@ -1,27 +1,28 @@
 ---
-title: Explicación de las tasas de coincidencia
-description: Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como también qué puede causar una tasa de coincidencia baja.
-feature: match rates
+title: Conceptos básicos de tasas de coincidencia
+description: Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como lo que puede causar una tasa de coincidencia baja.
+feature: Combinar tasas
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 1%
 
 ---
 
 
-# Explicación de las tasas de coincidencia
+# Conceptos básicos de tasas de coincidencia
 
-Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como también qué puede causar una tasa de coincidencia baja.
+Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como lo que puede causar una tasa de coincidencia baja.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Para obtener más información, visite la [documentación](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
+Para obtener más información, consulte la [documentación](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html).
