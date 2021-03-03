@@ -1,26 +1,28 @@
 ---
-title: Supervisión y Sistema de informes del uso de Actividades
-description: En este vídeo explicaremos cómo utilizar el informe Uso de Actividades, incluidas las opciones de visualización y descarga.
-feature: usage and billing
+title: Monitorización e informes del uso de la actividad
+description: En este vídeo, explicaremos cómo usar el informe Uso de actividades , incluidas las opciones de visualización y descarga.
+feature: Uso y facturación
 topics: null
-audience: administrator, implementer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
+topic: Administración
+role: '"Desarrollador, ingeniero de datos, administrador"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d44d3dac986881c9660190aae3b4d012741ad4bc
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
 
-# Supervisión y Sistema de informes del uso de Actividades
+# Monitorización e informes del uso de la actividad
 
-En este vídeo explicaremos cómo utilizar el [!DNL Activity Usage Report], incluidas las opciones de visualización y descarga.
+En este vídeo, explicaremos cómo utilizar [!DNL Activity Usage Report], incluidas las opciones de visualización y descarga.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Para obtener más información, visite la [documentación](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Para obtener más información, consulte la [documentación](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
