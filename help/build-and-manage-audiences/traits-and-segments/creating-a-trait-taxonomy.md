@@ -1,19 +1,20 @@
 ---
 title: Creación de una taxonomía de características
 description: Obtenga información sobre cómo crear estructuras de carpetas que tengan sus características en Audience Manager.
-feature: traits
+feature: 'Rasgos '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 9964af4660db48b82da871f426bbf70b3955f0f1
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
