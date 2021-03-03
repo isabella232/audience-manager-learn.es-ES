@@ -1,18 +1,19 @@
 ---
 title: Ejemplos de reglas de combinación de perfiles y casos de uso
-description: En este vídeo verá ejemplos de reglas de combinación de Perfiles y su significado, así como los casos de uso para los que se resuelven las reglas de combinación de Perfiles.
+description: En este vídeo se muestran ejemplos de reglas de combinación de perfiles y su significado, así como los casos de uso para los que resuelven las reglas de combinación de perfiles.
 feature: Combinación de perfiles
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
+role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
+level: Principiante
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Ejemplos y casos de uso
 
-En este vídeo verá ejemplos de [!UICONTROL Profile Merge Rules] y lo que significan, así como los casos de uso para los que [!UICONTROL Profile Merge Rules] se resuelve.
+En este vídeo verá ejemplos de [!UICONTROL Profile Merge Rules] y lo que significan, así como los casos de uso para los que [!UICONTROL Profile Merge Rules] resuelve.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)
