@@ -1,5 +1,5 @@
 ---
-title: Explicación de los términos y conceptos básicos de Audience Manager
+title: Explicación de los términos y conceptos básicos del Audience Manager
 description: En este vídeo analizaremos algunos de los términos y conceptos básicos que le ayudarán a dar sus primeros pasos en Audience Manager, lo que incluye señales, rasgos, segmentos, etc.
 landing-page-description: Conozca los términos y conceptos básicos que le ayudarán a iniciarse en el Audience Manager, lo que incluye señales, características, segmentos y mucho más.
 feature: Información general
@@ -20,7 +20,7 @@ ht-degree: 73%
 ---
 
 
-# Explicación de los términos y conceptos básicos de Audience Manager
+# Explicación de los términos y conceptos básicos del Audience Manager
 
 En este vídeo analizaremos algunos de los términos y conceptos básicos que le ayudarán a dar sus primeros pasos en Audience Manager, lo que incluye señales, rasgos, segmentos, etc.
 
