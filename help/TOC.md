@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriales de Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '904'
 ht-degree: 4%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 4%
    + [Introducción a Identity en Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Realización del valor {#value-realization}
       + [Medición del ROI en un caso de uso de supresión del cliente](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ Tendencias y noticias del sector {#industry}
+   + [El futuro de la gestión de datos y el entorno cambiante](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [10 consideraciones para la administración responsable de datos del cliente](industry/ten-considerations-for-responsible-customer-data-management.md)
+   + [Una historia de dos percepciones: marcas vs. consumidores](industry/brands-vs-consumers.md)
 + Configuración y administración {#setup-and-admin}
    + Fuentes de datos {#data-sources}
       + [Crear una fuente de datos para datos de Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
