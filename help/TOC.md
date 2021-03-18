@@ -5,10 +5,10 @@ breadcrumb-title: Tutoriales de Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: 4e536596d8fc3f7004e9d0be05b01066a92f73f5
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -156,6 +156,7 @@ ht-degree: 4%
       + [Explicación de los rasgos en CDP en tiempo real](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [Explicación de las señales en CDP en tiempo real](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [Explicación de los segmentos en tiempo real de CDP](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [Explicación de los destinos en CDP en tiempo real](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [Explicación del control de acceso en CDP en tiempo real](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [Explicación de la administración de datos en tiempo real de CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Integración con Ad Cloud {#integrating-with-ad-cloud}
