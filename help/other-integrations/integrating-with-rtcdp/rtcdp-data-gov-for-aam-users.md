@@ -3,15 +3,15 @@ title: Explicación de la administración de datos en tiempo real de CDP para us
 description: Este vídeo muestra a los usuarios Audience Manager a través de la funcionalidad de control de datos en la plataforma de datos del cliente en tiempo real, comparándola con lo que estaba disponible en Audience Manager. Se trata del marco de aplicación de etiquetado y uso de los datos (Data Usage and Labeling Enforcement, DULE) y dónde en Platform se puede aplicar.
 feature: Integración de plataforma
 topic: Integraciones
-role: Profesional empresarial
+role: Profesional empresarial, Arquitecto, Administrador, Líder
 level: Intermedio
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
