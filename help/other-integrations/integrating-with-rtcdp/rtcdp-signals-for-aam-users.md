@@ -3,15 +3,15 @@ title: Explicación de las señales en CDP en tiempo real para usuarios Audience
 description: Este vídeo está diseñado para usuarios Audience Manager que se trasladan a la Plataforma de datos del cliente en tiempo real (CDP en tiempo real) y analiza cómo se utilizan en Platform las señales (pares clave-valor) que utiliza en el Audience Manager para crear características.
 feature: Integración de plataforma
 topic: Integraciones
-role: Profesional empresarial
+role: Profesional empresarial, Arquitecto, Administrador, Líder
 level: Intermedio
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '174'
 ht-degree: 1%
 
 ---
