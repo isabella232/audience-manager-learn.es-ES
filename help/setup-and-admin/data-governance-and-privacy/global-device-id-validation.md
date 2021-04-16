@@ -1,22 +1,22 @@
 ---
 title: Validación global de ID de dispositivo
 description: Los identificadores de publicidad de dispositivo (es decir, iDFA, GAID, Roku ID) tienen estándares de formato que deben cumplirse para poder utilizarse en el ecosistema de publicidad digital. En la actualidad, los clientes y socios pueden cargar ID en fuentes de datos globales en cualquier formato sin que se les notifique si el ID tiene el formato adecuado. Esta función introducirá la validación de los ID de dispositivo enviados a las fuentes de datos globales para obtener un formato adecuado y proporcionará mensajes de error cuando los ID tengan un formato incorrecto. En el momento del lanzamiento, admitiremos la validación de ID de iDFA, Google Advertising y Roku.
-feature: '"Administración de datos y privacidad"'
+feature: Administración de datos y privacidad
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: '"Desarrollador, ingeniero de datos, arquitecto"'
-level: Con experiencia
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # Validación global de ID de dispositivo {#global-device-id-validation}
 
@@ -24,14 +24,14 @@ Los identificadores de publicidad de dispositivo (es decir, iDFA, GAID, Roku ID)
 
 ## Información general sobre los estándares de formato {#overview-of-format-standards}
 
-Los siguientes son los grupos de ID de publicidad de dispositivos globales que AAM reconoce y admite actualmente. Se implementan como [!UICONTROL Data Sources] compartidos que puede utilizar cualquier cliente o socio de datos que trabaje con datos vinculados a los usuarios de estas plataformas.
+Los siguientes son los grupos de ID de publicidad de dispositivos globales que están reconocidos y admitidos actualmente por AAM. Se implementan como [!UICONTROL Data Sources] compartidos que puede utilizar cualquier cliente o socio de datos que trabaje con datos vinculados a los usuarios de estas plataformas.
 
 <table>
   <tr>
    <td>Plataforma </td>
-   <td>ID de fuente de datos de AAM </td>
+   <td>ID de fuente de datos AAM </td>
    <td>Formato de ID </td>
-   <td>PID de AAM </td>
+   <td>AAM PID </td>
    <td>Notas </td>
   </tr>
   <tr>
@@ -73,12 +73,12 @@ Los siguientes son los grupos de ID de publicidad de dispositivos globales que A
 
 ## Configuración de un identificador de publicidad en la aplicación {#setting-an-advertising-identifier-in-the-app}
 
-La configuración del ID del anunciante en la aplicación es, en realidad, un proceso de dos pasos: recuperar primero el ID del anunciante y, a continuación, enviarlo a Experience Cloud. A continuación encontrará vínculos para realizar estos pasos.
+Configurar el ID del anunciante en la aplicación es realmente un proceso de dos pasos: primero recuperar el ID del anunciante y, después, enviarlo al Experience Cloud. A continuación encontrará vínculos para realizar estos pasos.
 
 1. Recuperar el ID
    1. [!DNL Apple] la información sobre el  [!DNL advertising ID] puede encontrarse  [AQUÍ](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
    1. Se puede encontrar [HERE](http://www.androiddocs.com/google/play-services/id.html) información sobre la configuración de [!DNL advertiser ID] para los desarrolladores de [!DNL Android].
-1. Enviarlo a Experience Cloud mediante el método [!DNL setAdvertisingIdentifier] del SDK
+1. Enviarlo al Experience Cloud mediante el método [!DNL setAdvertisingIdentifier] en el SDK
    1. La información para utilizar `setAdvertisingIdentifier` se encuentra en la [documentación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) tanto para [!DNL iOS] como para [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
@@ -86,7 +86,7 @@ La configuración del ID del anunciante en la aplicación es, en realidad, un pr
 
 ## Mensajes de error de DCS para ID incorrectos {#dcs-error-messaging-for-incorrect-ids}
 
-Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en tiempo real a Audience Manager, se devuelve un código de error en la visita. A continuación se muestra un ejemplo de error devuelto porque el ID se envía como [!DNL Apple IDFA], que solo debe contener letras mayúsculas y, sin embargo, hay una &quot;x&quot; en minúscula en el ID.
+Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en tiempo real al Audience Manager, se devuelve un código de error en la visita. A continuación se muestra un ejemplo de error devuelto porque el ID se envía como [!DNL Apple IDFA], que solo debe contener letras mayúsculas y, sin embargo, hay una &quot;x&quot; en minúscula en el ID.
 
 ![imagen de error](assets/image_4_.png)
 
