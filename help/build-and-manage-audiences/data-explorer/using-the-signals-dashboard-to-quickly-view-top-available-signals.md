@@ -1,15 +1,15 @@
 ---
 title: Uso del panel de señales para ver rápidamente las principales señales disponibles
 description: Mediante tablas integradas y personalizadas en el panel Señales del Explorador de datos, puede ver rápidamente los datos más recientes en Audience Manager e incluso hacer clic para crear las características que necesite. Le damos la bienvenida a su nuevo flujo de trabajo más eficiente.
-feature: 'Explorador de datos '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

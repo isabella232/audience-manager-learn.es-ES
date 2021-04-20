@@ -1,15 +1,15 @@
 ---
 title: Creación y uso de reglas de combinación de perfiles simples
 description: Obtenga información sobre las reglas de combinación de perfiles y cómo asignarlas a segmentos. Obtenga información sobre el perfil predeterminado "Dispositivo actual" y cuándo se puede/se debe utilizar.
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

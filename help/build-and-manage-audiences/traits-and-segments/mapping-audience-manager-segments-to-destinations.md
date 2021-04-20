@@ -1,15 +1,15 @@
 ---
 title: Asignación de segmentos de Audience Manager a destinos
 description: Obtenga información sobre los distintos tipos de destinos en Audience Manager y los detalles de asignación de segmentos a cada tipo de destino.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

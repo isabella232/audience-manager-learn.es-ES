@@ -1,14 +1,14 @@
 ---
 title: Vídeos y tutoriales sobre People-Based Destinations
 description: Esta sección contiene vídeos y tutoriales sobre temas relacionados con los destinos basados en personas.
-feature: '"Destinos basados en personas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: Administrador
-level: Principiante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Explicación de los tipos de destino de Audience Manager
 description: Este vídeo muestra los diferentes tipos de destinos de Adobe Audience Manager y proporciona ejemplos de cuándo utilizar cada uno.
-feature: Conceptos básicos de destino
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

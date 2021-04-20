@@ -1,7 +1,7 @@
 ---
 title: 10 consideraciones para la administración responsable de datos del cliente
 description: Las fuerzas volátiles del mercado y los requisitos de privacidad dispares del consumidor pueden presentar escenarios desalentadores para el comerciante digital. Para mantener las campañas en el lado derecho de las regulaciones, los equipos de marketing necesitan que sus homólogos de TI tengan un proceso optimizado para la revisión futura del proceso de control de datos, uno que idealmente faculte a todos para seguir y hacer cumplir las reglas de uso responsable de los datos de los consumidores. Escuche de Adobe y Scotiabank Digital las consideraciones clave para la administración responsable de datos.
-feature: Información general
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

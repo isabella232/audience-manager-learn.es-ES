@@ -1,15 +1,15 @@
 ---
 title: Uso de la Vista de código al crear segmentos
 description: Aprenda a utilizar la vista de código para definir segmentos, lo que le permite crear combinaciones de rasgos complejas, incluso mediante el uso de actualización y frecuencia.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

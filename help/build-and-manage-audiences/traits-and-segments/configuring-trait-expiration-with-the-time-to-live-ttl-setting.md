@@ -1,15 +1,15 @@
 ---
 title: Configuración de la caducidad del rasgo con la configuración de tiempo de vida (TTL)
 description: Una de las opciones al crear características es el ajuste "TTL" o Tiempo de vida, que es una caducidad de la pertenencia al rasgo si no se vuelve a calificar dentro del período de tiempo especificado. Este vídeo muestra cómo ver y configurar esta función.
-feature: 'Rasgos '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329381.jpg
 kt: 6782
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

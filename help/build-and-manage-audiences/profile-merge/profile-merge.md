@@ -1,14 +1,14 @@
 ---
 title: Vídeos y tutoriales de combinación de perfiles
 description: Esta sección contiene vídeos y tutoriales sobre las funciones de combinación de perfiles, como las reglas de combinación de perfiles.
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

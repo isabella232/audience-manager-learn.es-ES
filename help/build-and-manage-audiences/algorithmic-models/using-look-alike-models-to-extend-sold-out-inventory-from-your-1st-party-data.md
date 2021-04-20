@@ -1,15 +1,15 @@
 ---
 title: Uso de modelos de similitud para ampliar el inventario vendido a partir de los datos de origen
 description: En este tutorial, explicaremos los pasos que debe seguir para configurar y utilizar modelos de similitud, de modo que pueda crear nuevas audiencias parecidas y venderlas como una extensión a su segmento de conversión.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

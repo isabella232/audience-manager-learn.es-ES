@@ -1,15 +1,15 @@
 ---
 title: Formato e ingesta de datos basados en archivos
 description: Al incorporar su primer nivel a Audience Manager para comprender mejor y dirigirse a su cliente, existen ciertos requisitos de formato para los datos. Este vídeo trata algunas de las opciones principales y le muestra dónde obtener más información.
-feature: Incorporación de datos sin conexión
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

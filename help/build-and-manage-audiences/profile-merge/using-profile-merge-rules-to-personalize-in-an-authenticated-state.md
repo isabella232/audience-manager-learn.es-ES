@@ -1,15 +1,15 @@
 ---
 title: Uso de reglas de combinación de perfiles para personalizar en un estado autenticado
 description: Ofrezca a sus clientes conectados una experiencia personalizada utilizando esta configuración de regla de combinación de perfiles.
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

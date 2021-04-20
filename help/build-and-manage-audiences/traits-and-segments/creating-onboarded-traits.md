@@ -1,15 +1,15 @@
 ---
 title: Creación de características integradas
 description: Conozca sugerencias para crear características integradas en Audience Manager.
-feature: 'Rasgos '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

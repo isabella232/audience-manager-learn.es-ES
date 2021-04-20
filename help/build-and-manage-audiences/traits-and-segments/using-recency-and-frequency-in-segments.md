@@ -1,15 +1,15 @@
 ---
 title: Uso de actualización y frecuencia en los segmentos
 description: Utilice Actualización y Frecuencia para darle a su segmento parámetros sobre cuántas veces un visitante debe cumplir los requisitos para una característica en un período determinado. Ideal para casos de uso de afinidad de contenido y restricción de frecuencia, así como para otros.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37698.jpg
 kt: 5866
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: Integración de Adobe Advertising Cloud y Adobe Audience Manager
 description: Descubra cómo funciona la integración entre Adobe Audience Manager y Adobe Ad Cloud. También obtenga respuestas sobre las tasas de coincidencia y la sincronización de cookies de terceros.
-feature: Integración de Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
-topic: Integraciones
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Intermedio
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

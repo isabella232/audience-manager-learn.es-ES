@@ -1,7 +1,7 @@
 ---
 title: Compatibilidad con IAB TCF 2.0 en Audience Manager
 description: Adobe le proporciona los medios para administrar y comunicar las opciones de privacidad de los usuarios a través de la funcionalidad de inclusión y a través del complemento Audience Manager a la compatibilidad con Transparencia IAB y Consentimiento Framework 2.0 (TCF 2.0). Este artículo funciona junto con la documentación para ayudarle a comprender el complemento Audience Manager para IAB TCF y cómo funciona junto con el objeto Opt-in de Adobe y su proveedor de administración de consentimiento (CMP).
-feature: '"Administración de datos y privacidad"'
+feature: "Data Governance & Privacy"
 activity: implement
 doc-type: technical video
 team: Technical Marketing

@@ -1,14 +1,14 @@
 ---
 title: Uso de Tag Manager para implementar Audience Manager
 description: En este vídeo aprenderá los conceptos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
-feature: Conceptos básicos de implementación
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
-role: '"Desarrollador, ingeniero de datos"'
-level: Intermedio
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

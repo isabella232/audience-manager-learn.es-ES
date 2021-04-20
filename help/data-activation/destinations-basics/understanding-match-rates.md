@@ -1,15 +1,15 @@
 ---
 title: Conceptos básicos de tasas de coincidencia
 description: Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como lo que puede causar una tasa de coincidencia baja.
-feature: Combinar tasas
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

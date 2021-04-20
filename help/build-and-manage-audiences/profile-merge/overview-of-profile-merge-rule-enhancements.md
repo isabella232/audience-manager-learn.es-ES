@@ -1,15 +1,15 @@
 ---
 title: Información general sobre las mejoras de las reglas de combinación de perfiles
 description: En este vídeo se describen las mejoras realizadas en las reglas de combinación de perfiles, publicadas en octubre de 2019.
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28976.jpg
 kt: 3710
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

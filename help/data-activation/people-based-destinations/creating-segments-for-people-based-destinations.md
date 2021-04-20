@@ -1,15 +1,15 @@
 ---
 title: Creación de segmentos para destinos basados en personas en Adobe Audience Manager
 description: Este vídeo lo acompaña durante la creación de un segmento en Audience Manager para utilizarlo en destinos basados en personas.
-feature: '"Destinos basados en personas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29236.jpg
 kt: 3690
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

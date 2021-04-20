@@ -1,10 +1,10 @@
 ---
 title: Explicación de los rasgos en CDP en tiempo real para usuarios Audience Manager
 description: A medida que pasa de Audience Manager a plataforma de datos del cliente en tiempo real, resulta útil comprender las diferencias de conceptos. Este vídeo aborda los rasgos en Audience Manager y el equivalente en CDP en tiempo real.
-feature: Integración de plataforma
-topic: Integraciones
-role: Profesional empresarial, Arquitecto, Administrador, Líder
-level: Intermedio
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201

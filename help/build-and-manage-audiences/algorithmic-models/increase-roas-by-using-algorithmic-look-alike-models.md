@@ -1,15 +1,15 @@
 ---
 title: Aumente ROAS utilizando modelos algorítmicos (de similitud) en Audience Manager
 description: La potencia real del Modelado de similitudes de Audience Manager se obtiene cuando se busca expandir la audiencia de línea de base con un conjunto de usuarios nuevo y de calidad de fuentes de datos de segundo nivel y de terceros. En este tutorial, aprenda los pasos para crear un modelo a partir de estos datos.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

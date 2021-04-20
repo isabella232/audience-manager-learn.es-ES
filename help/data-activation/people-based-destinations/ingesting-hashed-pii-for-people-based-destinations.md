@@ -1,15 +1,15 @@
 ---
 title: Ingesta de PII con hash para destinos basados en personas
 description: En este vídeo, aprenderá a dar formato a una sincronización de ID basada en archivos para vincular sus ID de cliente (ID de CRM) con direcciones de correo electrónico con hash.
-feature: '"Destinos basados en personas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

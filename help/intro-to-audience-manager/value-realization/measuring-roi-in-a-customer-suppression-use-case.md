@@ -1,15 +1,15 @@
 ---
 title: Medición del ROI en un caso de uso de supresión del cliente
 description: Un centavo ahorrado es un centavo ganado, ¿verdad? Aprenda a utilizar un par de fórmulas para determinar los ahorros en costos de campaña suprimiendo los anuncios para los clientes existentes.
-feature: Información general
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36654.jpg
 kt: 5806
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

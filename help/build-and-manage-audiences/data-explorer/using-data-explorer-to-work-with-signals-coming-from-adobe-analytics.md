@@ -1,15 +1,15 @@
 ---
 title: Uso del Explorador de datos para trabajar con señales procedentes de Adobe Analytics
 description: Este vídeo muestra cómo trabajar en el Explorador de datos para descubrir y utilizar sus datos de Adobe Analytics, incluida la búsqueda de señales usadas y no utilizadas, la creación de características de Analytics y la comprensión de los datos.
-feature: 'Explorador de datos '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

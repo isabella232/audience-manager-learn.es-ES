@@ -1,15 +1,15 @@
 ---
 title: Uso de reglas de combinación de perfiles para la extensión de dispositivos y un mayor alcance
 description: Utilice las reglas de combinación de perfiles para ampliar el alcance a todos los dispositivos de un usuario, de modo que se pueda comercializar con personas en lugar de con dispositivos.
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

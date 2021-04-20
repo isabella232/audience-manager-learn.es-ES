@@ -1,15 +1,15 @@
 ---
 title: Cómo afectan las mejoras en las reglas de combinación de perfiles a la segmentación, la activación y los informes
 description: Explicación de cómo las mejoras en las reglas de combinación de perfiles afectarán a las poblaciones totales de rasgos y segmentos en la interfaz de usuario de Audience Manager
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Intermedio
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

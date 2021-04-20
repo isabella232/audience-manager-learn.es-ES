@@ -1,7 +1,7 @@
 ---
 title: Sistema de informes de identidad de audiencia
 description: El Sistema de informes de identidad de audiencia permite a los clientes informar sobre la población total de una característica o segmento según las definiciones de identidad personales o domésticas. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
-feature: Combinación de perfiles
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

@@ -1,15 +1,15 @@
 ---
 title: Monitorización e informes del uso de la actividad
 description: En este vídeo, explicaremos cómo usar el informe Uso de actividades , incluidas las opciones de visualización y descarga.
-feature: Uso y facturación
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Administración
-role: '"Desarrollador, ingeniero de datos, administrador"'
-level: Principiante
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

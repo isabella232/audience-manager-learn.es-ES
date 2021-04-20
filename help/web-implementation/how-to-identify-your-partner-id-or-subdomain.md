@@ -1,14 +1,14 @@
 ---
 title: Identificación del ID de socio o subdominio de Audience Manager
 description: Al implementar algunas funciones de Experience Cloud, debe saber qué es su "ID de socio" de Audience Manager (también conocido como "ID de cliente" o "subdominio"). En este vídeo, se muestran dos lugares en los que puede obtener este ID en la interfaz de usuario de Audience Manager.
-feature: Conceptos básicos de implementación
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: '"Desarrollador, ingeniero de datos"'
-level: Intermedio
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

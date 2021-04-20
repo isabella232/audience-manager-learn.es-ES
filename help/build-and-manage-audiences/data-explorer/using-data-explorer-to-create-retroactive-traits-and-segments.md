@@ -1,15 +1,15 @@
 ---
 title: Uso del Explorador de datos para crear rasgos y segmentos retroactivos
 description: Este vídeo muestra cómo crear rasgos retroactivos, es decir, rasgos que rellenan los datos en el rasgo desde antes de crearlos. ¡Esto es un gran avance en la creación de rasgos!
-feature: 'Explorador de datos '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

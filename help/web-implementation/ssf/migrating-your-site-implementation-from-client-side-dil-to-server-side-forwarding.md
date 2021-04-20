@@ -2,13 +2,13 @@
 title: Migración de la implementación de AAM del sitio de un DIL del lado del cliente a un reenvío del lado del servidor
 description: Este tutorial se aplica si tiene Adobe Audience Manager (AAM) y Adobe Analytics, y actualmente está enviando una visita desde la página a AAM mediante el código "DIL" (Data Integration Library) y también enviando una visita desde la página a Adobe Analytics. Dado que tiene ambas soluciones y que ambas forman parte de Adobe Experience Cloud, tiene la oportunidad de seguir la práctica recomendada de activar el "Reenvío del lado del servidor (SSF)", que permite a los servidores de recopilación de datos de Analytics reenviar los datos de análisis del sitio en tiempo real al Audience Manager, en lugar de hacer que el código del lado del cliente envíe una visita adicional desde la página a AAM. Este tutorial le guiará por los pasos para hacer el cambio de la implementación anterior de "DIL del lado del cliente" al nuevo método de "reenvío del lado del servidor".
 product: audience manager
-feature: Integración de Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

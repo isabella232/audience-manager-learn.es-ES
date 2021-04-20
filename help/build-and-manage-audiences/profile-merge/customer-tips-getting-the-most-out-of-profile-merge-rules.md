@@ -1,15 +1,15 @@
 ---
 title: 'Sugerencias al cliente: Aprovechamiento al máximo de las reglas de combinación de perfiles'
 description: Varun Kalra, consultor de soluciones múltiples en Acordeante, ofrece sugerencias para elegir y usar reglas de combinación de perfiles (PMR).
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

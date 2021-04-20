@@ -1,15 +1,15 @@
 ---
 title: Configuración de reglas de combinación de perfiles para destinos basados en personas
 description: En este vídeo, aprenderá a configurar una regla de combinación de perfiles para utilizarla en destinos basados en personas, incluido cuándo utilizar una nueva opción entre dispositivos.
-feature: '"Destinos basados en personas"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

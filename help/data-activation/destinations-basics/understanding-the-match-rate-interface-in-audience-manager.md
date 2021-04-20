@@ -1,15 +1,15 @@
 ---
 title: Explicación de la interfaz de tasa de coincidencia en Audience Manager
 description: Este vídeo lo acompaña a través de la interfaz de destino, mostrando y explicando los números asociados con tasas de coincidencia y audiencias a las que se puede dirigir.
-feature: Combinar tasas
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

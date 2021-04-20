@@ -1,15 +1,15 @@
 ---
 title: Explicación de los números del gráfico de características
 description: Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características.
-feature: 'Rasgos '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

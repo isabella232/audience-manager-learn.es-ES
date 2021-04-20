@@ -1,15 +1,15 @@
 ---
 title: 'Uso del Explorador de datos para validar la creación de características para los datos incorporados '
 description: Una de las funciones más potentes de Audience Manager es la capacidad de incorporar datos sin conexión y vincularlos con los datos en línea. En este vídeo, aprenderá a utilizar el Explorador de datos para validar que ha creado todos los rasgos necesarios para aprovechar estos datos incorporados.
-feature: 'Explorador de datos '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

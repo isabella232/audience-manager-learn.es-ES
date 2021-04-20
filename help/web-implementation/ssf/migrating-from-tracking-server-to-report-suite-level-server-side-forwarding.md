@@ -2,13 +2,13 @@
 title: Migración del servidor de seguimiento al reenvío del lado del servidor en el nivel de grupo de informes
 description: Este artículo y vídeo le mostrarán cómo habilitar el reenvío de datos de Analytics del lado del servidor al Audience Manager a nivel de grupo de informes en lugar de a nivel de servidor de seguimiento.
 product: audience manager
-feature: Integración de Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

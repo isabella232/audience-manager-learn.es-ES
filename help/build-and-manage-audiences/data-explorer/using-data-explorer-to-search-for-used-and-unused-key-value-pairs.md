@@ -1,15 +1,15 @@
 ---
 title: Uso del Explorador de datos para buscar pares clave/valor utilizados y no utilizados en AAM
 description: En el trabajo diario en Audience Manager, es posible que necesite saber rápidamente si se ha creado un rasgo a partir de un par clave/valor específico. Este vídeo le muestra cómo averiguarlo con el Explorador de datos.
-feature: 'Explorador de datos '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

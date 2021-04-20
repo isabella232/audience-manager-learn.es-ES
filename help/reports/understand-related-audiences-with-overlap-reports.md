@@ -1,15 +1,15 @@
 ---
 title: Comprender las audiencias relacionadas con los informes de superposición
 description: Los informes de superposición le permiten ver cómo las audiencias de rasgos y segmentos se superponen entre sí (el mismo visitante en varios rasgos o segmentos), de modo que sepa dónde puede actuar con los datos para aumentar la conversión o centrarse en ampliar el alcance.
-feature: Informes de superposición
+feature: Overlap Reports
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: Profesional empresarial
-level: Intermedio
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Uso de etiquetas de exportación de datos para controlar el flujo de datos
 description: Las etiquetas de exportación de datos proporcionan un mecanismo en Audience Manager para controlar el flujo de diferentes tipos y fuentes de datos, de modo que pueda satisfacer sus requisitos de privacidad. Aprenda cómo y dónde establecer los controles de exportación de datos y las etiquetas de exportación de datos para trabajar en conjunto con este fin.
-feature: Controles de exportación de datos
+feature: Data Export Controls
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330322.jpg
 kt: 6836
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

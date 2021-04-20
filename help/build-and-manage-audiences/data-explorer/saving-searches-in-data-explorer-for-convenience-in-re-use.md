@@ -1,7 +1,7 @@
 ---
 title: Guardar búsquedas en el Explorador de datos para mayor comodidad en la reutilización
 description: En este vídeo, aprenderá a configurar una búsqueda en el Explorador de datos, ejecutarla y, a continuación, guardarla para volver a utilizarla posteriormente. también puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente cuando se entra en la aplicación Señales.
-feature: 'Explorador de datos '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: '"Profesional del negocio, Desarrollador, Ingeniero de datos, Arquitecto, Arquitecto de datos, Administrador, Líder"'
-level: Principiante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

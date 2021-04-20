@@ -1,15 +1,15 @@
 ---
 title: Creación de características de conversión en Audience Manager
 description: Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenda a designarlos como tales y aprenda un consejo/gotcha muy importante.
-feature: 'Rasgos '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
