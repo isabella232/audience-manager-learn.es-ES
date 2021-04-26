@@ -2,13 +2,13 @@
 title: Crear una fuente de datos para datos de Analytics
 description: En este vídeo explicamos los pasos, incluidos consejos y trucos, de la creación de una fuente de datos en AAM que puede utilizar para los datos que llegan en tiempo real desde una solución de análisis, como Adobe Analytics. Esto debe hacerse antes de crear rasgos para los datos de análisis.
 landing-page-description: Aprenda a crear una fuente de datos para los datos que se activan desde una solución de análisis, como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
-feature: Data Sources
+feature: Fuentes de datos
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt
