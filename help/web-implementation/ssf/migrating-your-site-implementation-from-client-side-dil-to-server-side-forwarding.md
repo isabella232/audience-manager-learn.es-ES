@@ -2,17 +2,16 @@
 title: Migración de la implementación de AAM del sitio de un DIL del lado del cliente a un reenvío del lado del servidor
 description: Este tutorial se aplica si tiene Adobe Audience Manager (AAM) y Adobe Analytics, y actualmente está enviando una visita desde la página a AAM mediante el código "DIL" (Data Integration Library) y también enviando una visita desde la página a Adobe Analytics. Dado que tiene ambas soluciones y que ambas forman parte de Adobe Experience Cloud, tiene la oportunidad de seguir la práctica recomendada de activar el "Reenvío del lado del servidor (SSF)", que permite a los servidores de recopilación de datos de Analytics reenviar los datos de análisis del sitio en tiempo real al Audience Manager, en lugar de hacer que el código del lado del cliente envíe una visita adicional desde la página a AAM. Este tutorial le guiará por los pasos para hacer el cambio de la implementación anterior de "DIL del lado del cliente" al nuevo método de "reenvío del lado del servidor".
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Integración de Adobe Analytics
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '2322'
 ht-degree: 0%
@@ -29,7 +28,7 @@ Al comparar y contrastar estos dos métodos de obtención de datos de Adobe Anal
 
 ![del lado del cliente al lado del servidor](assets/client-side_vs_server-side_aam_implementation.png)
 
-### [!DNL Client-side] Implementación del DIL  {#client-side-dil-implementation}
+### [!DNL Client-side] Implementación del DIL {#client-side-dil-implementation}
 
 Si utiliza este método para obtener datos de Adobe Analytics en AAM, significa que tiene dos visitas provenientes de sus páginas web: Una que va a [!DNL Analytics] y otra que va a AAM (después de haber copiado los datos de [!DNL Analytics] en la página Web. [!UICONTROL Segments] se devuelven de AAM a la página, donde se pueden utilizar para la personalización, etc. Se considera una implementación &quot;heredada&quot; y ya no se recomienda.
 
@@ -40,7 +39,7 @@ Más allá del hecho de que esto no sigue las prácticas recomendadas, las desve
 
 Se recomienda pasar a un método [!UICONTROL Server-Side Forwarding] de implementación de AAM.
 
-### [!UICONTROL Server-Side Forwarding]Implementación{#server-side-forwarding-implementation}
+### [!UICONTROL Server-Side Forwarding] Implementación {#server-side-forwarding-implementation}
 
 Como se muestra en la imagen anterior, una visita viene de la página web a Adobe Analytics. [!DNL Analytics] a continuación, envía esos datos a AAM en tiempo real y los visitantes se evalúan en AAM  [!UICONTROL traits] y  [!UICONTROL segments], como si la visita hubiera llegado directamente desde la página.
 
@@ -48,7 +47,7 @@ Como se muestra en la imagen anterior, una visita viene de la página web a Adob
 
 No hay un inconveniente en el tiempo para pasar al reenvío del lado del servidor. Recomendamos encarecidamente que cualquier persona que tenga Audience Manager y [!DNL Analytics] utilice este método de implementación.
 
-## Tiene DOS Tareas Principales {#you-have-two-main-tasks}
+## Tiene Dos Tareas Principales {#you-have-two-main-tasks}
 
 Hay bastante información en esta página, y todo es importante, por supuesto. Sin embargo, **todo se reduce a dos cosas principales que necesita hacer**:
 
@@ -79,7 +78,7 @@ Si está utilizando un sistema de administración de etiquetas que no es de Adob
 >
 >Lea todo el documento antes de implementarlo. La sección &quot;Temporización&quot; a continuación tiene información importante sobre *cuándo* debe implementar cada pieza, incluido el ECID (si aún no se ha implementado).
 
-### Paso 1: Registrar las opciones usadas actualmente desde el código de DIL {#step-record-currently-used-options-from-dil-code}
+### Paso 1: Registrar las opciones usadas actualmente desde el código del DIL {#step-record-currently-used-options-from-dil-code}
 
 A medida que se prepara para pasar del código de DIL [!DNL Client-Side] a [!UICONTROL Server-Side Forwarding], el primer paso es identificar todo lo que está haciendo con el código de DIL, incluida la configuración personalizada y los datos enviados a AAM. Algunas cosas que hay que tener en cuenta y considerar son:
 
@@ -99,7 +98,7 @@ Vea el siguiente vídeo para obtener más información sobre cómo mover las opc
 
 >[!VIDEO](https://video.tv.adobe.com/v/26310/?quality=12)
 
-#### &quot;En la página&quot; o no Adobe Tag Manager {#on-the-page-or-non-adobe-tag-manager}
+#### &quot;En la página&quot; o que no sean de Adobe Tag Manager {#on-the-page-or-non-adobe-tag-manager}
 
 Vea el siguiente vídeo para obtener más información sobre cómo mover las opciones de implementación del código de DIL [!DNL Client-Side] a [!UICONTROL Server-Side Forwarding] en código [!DNL AppMeasurement], ya sea en un archivo o en un sistema de administración de etiquetas que no sea de Adobe.
 
@@ -135,7 +134,7 @@ La razón por la que el tiempo y el orden importan es debido a cómo funciona el
 
 Basándose en estos detalles técnicos, estas son las recomendaciones para el momento de &quot;qué hacer cuando&quot;:
 
-#### Si NO tiene ECID implementado {#if-you-do-not-have-ecid-yet-implemented}
+#### Si NO tiene ECID aún implementado {#if-you-do-not-have-ecid-yet-implemented}
 
 1. Girar el conmutador en [!DNL Analytics] para cada [!UICONTROL report suite] que habilitará para SSF
 
