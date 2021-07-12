@@ -1,23 +1,22 @@
 ---
 title: 'Sugerencias al cliente: prácticas recomendadas de características y segmentos'
 description: Matt Vittorioso, especialista en mercadotecnia de Ally Financial, da consejos sobre la administración de características y segmentos.
-feature: Segments
+feature: 'Segmentos '
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Sugerencias al cliente: prácticas recomendadas de características y segmentos
 
@@ -29,4 +28,4 @@ Matt Vittorioso es especialista en mercadotecnia en el equipo de mercadotecnia d
 * Uso de la funcionalidad predeterminada
 * Revisión periódica de rasgos y segmentos
 
-[Lea los consejos de Matt en la Comunidad de Experience League .](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Lea los Consejos de Matt en la Comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
