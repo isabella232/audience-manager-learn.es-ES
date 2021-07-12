@@ -1,24 +1,23 @@
 ---
-title: Vídeos y tutoriales de combinación de perfiles
+title: Vídeos y Tutorials de combinación de perfiles
 description: Esta sección contiene vídeos y tutoriales sobre las funciones de combinación de perfiles, como las reglas de combinación de perfiles.
-feature: Profile Merge
+feature: Combinación de perfiles
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Profile Merge] : Vídeos y tutoriales
+# [!UICONTROL Profile Merge] - Vídeos y Tutorials
 
 Con [!UICONTROL Profile Merge Rules] obtiene control sobre los conjuntos de datos utilizados para [!UICONTROL segmentation] y puede dirigirse a una persona con precisión en varios dispositivos.
 
