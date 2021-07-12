@@ -1,26 +1,25 @@
 ---
-title: Identificación del ID de socio o subdominio de Audience Manager
-description: Al implementar algunas funciones de Experience Cloud, debe saber qué es su "ID de socio" de Audience Manager (también conocido como "ID de cliente" o "subdominio"). En este vídeo, se muestran dos lugares en los que puede obtener este ID en la interfaz de usuario de Audience Manager.
-feature: Implementation Basics
+title: Identificación del ID de socio de Audience Manager o del subdominio
+description: Al implementar algunas funciones de Experience Cloud, debe saber qué es su Audience Manager "ID de socio" (también conocido como "ID de cliente" o "subdominio"). En este vídeo, se muestran dos lugares en los que puede obtener este ID en la interfaz de usuario del Audience Manager.
+feature: Conceptos básicos de implementación
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-
 # Cómo identificar el subdominio de Audience Manager {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Al implementar algunas funciones de Experience Cloud, debe saber qué es Audience Manager `Subdomain` (también conocido como `client ID` o `Partner ID`). En este vídeo, se muestran dos lugares en los que puede obtener esta información en la interfaz de usuario de Audience Manager.
+Al implementar algunas funciones de Experience Cloud, debe saber qué es su Audience Manager `Subdomain` (también conocido como `client ID` o `Partner ID`). En este vídeo, se muestran dos lugares en los que puede obtener esta información en la interfaz de usuario del Audience Manager.
 
 ## Dejando de lado el final... {#giving-away-the-ending}
 
@@ -36,5 +35,5 @@ Si no puede encontrarlo rápidamente con esas referencias rápidas, el vídeo es
 
 >[!IMPORTANT]
 >
->Hay un ID numérico asignado a cada cliente de Adobe Experience Cloud, que suele denominarse &quot;PID&quot; o &quot;Partner ID&quot;. Este no es el ID del que hablamos en este artículo y vídeo. En su lugar, el &quot;subdominio de socio&quot;, que a veces se denomina ID de socio, suele ser una versión del nombre de cliente y es el subdominio del servidor al que se envían los datos. Por ejemplo, si su empresa es &quot;Bob&#39;s Knobs&quot; (todos los controles de puerta, por supuesto, jaja), entonces es probable que su subdominio asociado sea &quot;bobsknobs&quot;, mientras que el &quot;PID&quot; sería algo más como &quot;12345&quot;. Normalmente no necesita conocer su PID, pero es importante conocer su subdominio para poder configurar la implementación de Audience Manager.
+>Hay un ID numérico asignado a cada cliente de Adobe Experience Cloud, que suele denominarse &quot;PID&quot; o &quot;Partner ID&quot;. Este no es el ID del que hablamos en este artículo y vídeo. En su lugar, el &quot;subdominio de socio&quot;, que a veces se denomina ID de socio, suele ser una versión del nombre de cliente y es el subdominio del servidor al que se envían los datos. Por ejemplo, si su empresa es &quot;Bob&#39;s Knobs&quot; (todos los controles de puerta, por supuesto, jaja), entonces es probable que su subdominio asociado sea &quot;bobsknobs&quot;, mientras que el &quot;PID&quot; sería algo más como &quot;12345&quot;. Normalmente no necesita conocer su PID, pero es importante conocer su subdominio para poder configurar la implementación del Audience Manager.
 
