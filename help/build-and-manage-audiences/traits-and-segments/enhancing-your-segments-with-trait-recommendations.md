@@ -1,25 +1,24 @@
 ---
-title: Mejora de los segmentos de AAM con recomendaciones de características
+title: Mejora de los segmentos de AAM con Trait Recommendations
 description: Con Trait Recommendations, al crear o editar un segmento en Generador de segmentos, se obtienen recomendaciones sobre las características adicionales que puede incluir que son similares a las características de la regla de segmento.
-feature: Segments
+feature: 'Segmentos '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 28%
+source-wordcount: '103'
+ht-degree: 32%
 
 ---
 
-
-# Mejora de AAM [!UICONTROL Segments] con [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Mejora de su AAM [!UICONTROL Segments] con [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
 Con [!DNL Trait Recommendations], cuando crea o edita un [!UICONTROL segment] en [!DNL Segment Builder], obtiene recomendaciones sobre el [!UICONTROL traits] adicional que puede incluir, que son similares al [!UICONTROL traits] en la regla [!UICONTROL segment].
 
