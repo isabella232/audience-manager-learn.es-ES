@@ -1,25 +1,24 @@
 ---
-title: Creación de características de conversión en Audience Manager
+title: Creación de características de conversión en el Audience Manager
 description: Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenda a designarlos como tales y aprenda un consejo/gotcha muy importante.
-feature: Traits
+feature: 'Rasgos '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
-# Creación de conversión [!UICONTROL Traits] en Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Creación de la conversión [!UICONTROL Traits] en el Audience Manager {#creating-conversion-traits-in-audience-manager}
 
 Algunos [!UICONTROL traits] se basan en conversiones en el sitio. En este vídeo, aprenda a designarlos como tales y aprenda un consejo/gotcha muy importante.
 
