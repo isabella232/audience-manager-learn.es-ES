@@ -1,25 +1,24 @@
 ---
-title: Vídeos y tutoriales de Analytics
+title: Vídeos y Tutorials de Analytics
 description: Una recopilación de vídeos y tutoriales de Adobe Analytics.
-feature: Overview
+feature: Información general
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '338'
 ht-degree: 12%
 
 ---
 
-
 # Información general
 
-Le damos la bienvenida al sitio de tutoriales de Audience Manager.  El uso de estos tutoriales junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) le proporcionará una mejor comprensión sobre cómo utilizar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que utilice la [!DNL data management platform] mejor versión de Adobe.
+Bienvenido al sitio de Tutorials de Audience Manager.  El uso de estos tutoriales junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) le proporcionará una mejor comprensión sobre cómo usar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que utilice el [!DNL data management platform] de clase superior de Adobe.
 
 * **El personal** destaca algunos de nuestros contenidos favoritos
 * Explore el contenido por tema y subtema en el **menú de navegación de la izquierda**
@@ -37,7 +36,7 @@ Le damos la bienvenida al sitio de tutoriales de Audience Manager.  El uso de es
 
 * **[Crear y configurar[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Obtenga información sobre cómo configurar una  [!DNL People-Based Destination] en la interfaz de usuario de Audience Manager*
+   *Obtenga información sobre cómo configurar un  [!DNL People-Based Destination] en la interfaz de usuario del Audience Manager*
 
 ## Selección de personal
 
@@ -45,11 +44,11 @@ Le damos la bienvenida al sitio de tutoriales de Audience Manager.  El uso de es
 <tr>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
-      <img alt="imagen en miniatura del tutorial "Implementación de Experience Cloud en aplicaciones móviles Swift de iOS"" src="assets/thumb_swift.png" />
+      <img alt="imagen en miniatura del tutorial "Implementación del Experience Cloud en aplicaciones móviles Swift de iOS"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
-    <strong>Implementación de Experience Cloud en aplicaciones móviles para iOS</strong>
+    <strong>Implementación del Experience Cloud en aplicaciones móviles para iOS</strong>
     </a>
     </div>
     <p>
@@ -58,11 +57,11 @@ Le damos la bienvenida al sitio de tutoriales de Audience Manager.  El uso de es
   </td>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-      <img alt="imagen en miniatura del tutorial "Implementación de Experience Cloud en aplicaciones móviles de Android"" src="assets/thumb_android.png" />
+      <img alt="imagen en miniatura del tutorial "Implementación del Experience Cloud en aplicaciones móviles de Android"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
-    <strong>Implementación de Experience Cloud en aplicaciones móviles de [!DNL Android]</strong>
+    <strong>Implementación del Experience Cloud en aplicaciones móviles de [!DNL Android]</strong>
     </a>
     </div>
     <p>
@@ -71,11 +70,11 @@ Le damos la bienvenida al sitio de tutoriales de Audience Manager.  El uso de es
   </td>
   <td>
     <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
-      <img alt="imagen en miniatura para el tutorial "Implementación de Experience Cloud en aplicaciones móviles Objective-C"" src="assets/thumb_objective_c.png" />
+      <img alt="imagen en miniatura del tutorial "Implementación del Experience Cloud en aplicaciones móviles Objective-C"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
-    <strong>Implementación de Experience Cloud en aplicaciones móviles Objective-C</strong>
+    <strong>Implementación del Experience Cloud en aplicaciones móviles Objective-C</strong>
     </a>
     </div>
     <p>
