@@ -1,27 +1,26 @@
 ---
 title: Uso del panel de señales para ver rápidamente las principales señales disponibles
-description: Mediante tablas integradas y personalizadas en el panel Señales del Explorador de datos, puede ver rápidamente los datos más recientes en Audience Manager e incluso hacer clic para crear las características que necesite. Le damos la bienvenida a su nuevo flujo de trabajo más eficiente.
-feature: Data Explorer
+description: Al utilizar tablas integradas y personalizadas en el panel Señales en Data Explorer, puede ver rápidamente los datos más recientes en Audience Manager e incluso hacer clic para crear las características que necesite. Le damos la bienvenida a su nuevo flujo de trabajo más eficiente.
+feature: 'Explorador de datos '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
+# Uso del [!UICONTROL Signals] tablero para ver rápidamente los principales [!UICONTROL Signals] disponibles {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-# Uso del [!UICONTROL Signals] panel para ver rápidamente los principales [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals} disponibles
-
-Al utilizar tablas integradas y personalizadas en el tablero [!UICONTROL Signals] de [!DNL Data Explorer], puede ver rápidamente los datos más recientes que llegan a Audience Manager e incluso hacer clic para crear las características que necesite. Le damos la bienvenida a su nuevo flujo de trabajo más eficiente.
+Al utilizar tablas integradas y personalizadas en el tablero [!UICONTROL Signals] de [!DNL Data Explorer], puede ver rápidamente los datos más recientes en el Audience Manager e incluso hacer clic para crear las características que necesite. Le damos la bienvenida a su nuevo flujo de trabajo más eficiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
