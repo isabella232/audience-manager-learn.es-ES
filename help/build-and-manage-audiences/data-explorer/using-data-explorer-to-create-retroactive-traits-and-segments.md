@@ -1,27 +1,26 @@
 ---
-title: Uso del Explorador de datos para crear rasgos y segmentos retroactivos
-description: Este vídeo muestra cómo crear rasgos retroactivos, es decir, rasgos que rellenan los datos en el rasgo desde antes de crearlos. ¡Esto es un gran avance en la creación de rasgos!
-feature: Data Explorer
+title: Uso de la Data Explorer para crear rasgos y segmentos retroactivos
+description: Este vídeo muestra cómo crear rasgos retroactivos, es decir, rasgos que rellenan los datos en el rasgo desde antes de crearlos. ¡Este es un bueno avance en la creación de rasgos!
+feature: 'Explorador de datos '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
 
+# Uso de [!DNL Data Explorer] para crear [!UICONTROL Traits] y [!UICONTROL Segments] retroactivos {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-# Uso de [!DNL Data Explorer] para crear [!UICONTROL Traits] y [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
-
-Este vídeo muestra cómo crear una [!UICONTROL traits] retroactiva, es decir: [!UICONTROL traits] que rellenan los datos en el [!UICONTROL trait] desde antes de crearlos. Esto es un gran avance en su [!UICONTROL trait] creación!
+Este vídeo muestra cómo crear una [!UICONTROL traits] retroactiva, es decir: [!UICONTROL traits] que rellenan los datos en el [!UICONTROL trait] desde antes de crearlos. Este es un bueno avance en la creación de [!UICONTROL trait].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
