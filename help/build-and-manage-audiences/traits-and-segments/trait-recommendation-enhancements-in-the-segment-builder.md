@@ -1,23 +1,22 @@
 ---
 title: Mejoras en la recomendación de características en el Generador de segmentos
-description: En este vídeo podrá ver cómo utilizar las recomendaciones de características actualizadas en el generador de segmentos, que son recomendaciones de Audience Marketplace. Esto le proporcionará información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
-feature: Segments
+description: En este vídeo verá cómo se utilizan las recomendaciones de características actualizadas en el generador de segmentos, que son recomendaciones de Audience Marketplace. Esto le proporcionará información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
+feature: 'Segmentos '
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
-
 
 # [!DNL Trait Recommendation] Mejoras en la  [!DNL Segment Builder]
 
