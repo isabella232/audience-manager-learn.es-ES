@@ -1,27 +1,26 @@
 ---
-title: Explicación de los tipos de destino de Audience Manager
-description: Este vídeo muestra los diferentes tipos de destinos de Adobe Audience Manager y proporciona ejemplos de cuándo utilizar cada uno.
-feature: Destination Basics
+title: Explicación de los tipos de destino del Audience Manager
+description: Este vídeo le guiará por los diferentes tipos de destinos en Adobe Audience Manager y le mostrará ejemplos de cuándo utilizar cada uno de ellos.
+feature: Conceptos básicos de destino
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
+# Explicación de los tipos de Audience Manager [!UICONTROL Destination]
 
-# Explicación de los tipos [!UICONTROL Destination] de Audience Manager
-
-Este vídeo le guiará por los diferentes tipos de [!UICONTROL destinations] en Adobe Audience Manager y le dará ejemplos de cuándo utilizar cada uno.
+Este vídeo le guiará por los diferentes tipos de [!UICONTROL destinations] en Adobe Audience Manager y le dará ejemplos de cuándo utilizaría cada uno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
