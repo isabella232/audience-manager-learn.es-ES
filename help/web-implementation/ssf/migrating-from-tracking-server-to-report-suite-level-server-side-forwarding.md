@@ -2,17 +2,16 @@
 title: Migración del servidor de seguimiento al reenvío del lado del servidor en el nivel de grupo de informes
 description: Este artículo y vídeo le mostrarán cómo habilitar el reenvío de datos de Analytics del lado del servidor al Audience Manager a nivel de grupo de informes en lugar de a nivel de servidor de seguimiento.
 product: audience manager
-feature: Adobe Analytics Integration
+feature: Integración de Adobe Analytics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -27,7 +26,7 @@ Este artículo y vídeo le mostrarán cómo habilitar [!UICONTROL server-side fo
 
 Si tiene Adobe Audience Manager Y Adobe Analytics, puede implementar &quot;[!UICONTROL Server-side Forwarding]&quot; de los datos [!DNL Analytics] en el Audience Manager. Esto significa que, en lugar de que la página envíe 2 visitas (una a [!DNL Analytics] y otra a Audience Manager), simplemente puede enviar una visita a [!DNL Analytics] y [!DNL Analytics] reenviará esos datos al Audience Manager. Si ya lo tiene en marcha y lo ha habilitado o implementado antes de octubre de 2017, su [!UICONTROL server-side forwarding] puede estar basado en su &quot;[!UICONTROL Tracking Server]&quot;, que debe estar habilitado por el Servicio de atención al cliente de Adobe o la Consultoría de Adobe. A partir de octubre de 2017, ahora puede configurar [!UICONTROL server-side forwarding] usted mismo y hacerlo a nivel [!UICONTROL Report Suite] (reenvío por [!UICONTROL Report Suite]). Esto tiene importantes beneficios, que se analizarán a continuación.
 
-## [!UICONTROL Tracking Server] Reenvío  {#tracking-server-forwarding}
+## [!UICONTROL Tracking Server] Reenvío {#tracking-server-forwarding}
 
 Su [!UICONTROL tracking server] es la ubicación a la que envía los datos de [!DNL Analytics] y también el dominio en el cual se escribe la solicitud de imagen y la cookie. Debe configurarse en DTM o [!DNL Experience Platform Launch], o en el archivo [!DNL AppMeasurement.js], y normalmente tendrá este aspecto, ya que su sitio o nombre de negocio reemplazarán a &quot;mysite&quot;:
 
@@ -37,7 +36,7 @@ Si [!UICONTROL server-side forwarding] está configurado para reenviar en el niv
 
 Si no está seguro de si [!DNL tracking server forwarding] está habilitado para usted, póngase en contacto con el Servicio de atención al cliente de Adobe o con la Consultoría de Adobe, y estos le informarán.
 
-## [!UICONTROL Report Suite]-Nivel  [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
+## [!UICONTROL Report Suite]-Nivel [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
 Una de las mayores ventajas de pasar al reenvío [!UICONTROL report suite] desde el reenvío [!UICONTROL tracking server] es que ahora podrá utilizar el &quot;Audience Analytics&quot;, que es la capacidad de reenviar el Audience Manager [!UICONTROL segments] a Adobe Analytics para realizar un análisis detallado [!UICONTROL segment]. Esta buena función NO es compatible si todavía se encuentra en el reenvío [!UICONTROL tracking server] y no en el reenvío [!UICONTROL report suite]. Consulte más información sobre el Audience Analytics en la [documentación](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
 
