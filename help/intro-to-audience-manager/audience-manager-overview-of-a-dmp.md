@@ -1,28 +1,27 @@
 ---
-title: 'Audience Manager: información general de un DMP'
-description: Comprenda los desafíos clave con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, descubra qué tipos de datos se pueden incorporar en Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con Audience Manager.
-feature: Overview
+title: 'Audience Manager: Información general de un DMP'
+description: Comprenda los desafíos clave con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, descubra qué tipos de datos se pueden incorporar en el Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con el Audience Manager.
+feature: Información general
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
-topic: Architecture
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: Arquitectura
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '105'
 ht-degree: 1%
 
 ---
 
+# Audience Manager: Información general de un DMP
 
-# Audience Manager: información general de un DMP
-
-Comprenda los desafíos clave con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, descubra qué tipos de datos se pueden incorporar en Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con Audience Manager.
+Comprenda los desafíos clave con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, descubra qué tipos de datos se pueden incorporar en el Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con el Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
