@@ -1,7 +1,7 @@
 ---
-title: Guardar búsquedas en el Explorador de datos para mayor comodidad en la reutilización
-description: En este vídeo, aprenderá a configurar una búsqueda en el Explorador de datos, ejecutarla y, a continuación, guardarla para volver a utilizarla posteriormente. también puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente cuando se entra en la aplicación Señales.
-feature: Data Explorer
+title: Guardar búsquedas en Data Explorer para mayor comodidad en reutilización
+description: En este vídeo, aprenderá a configurar una búsqueda en Data Explorer, ejecutarla y luego guardarla para reutilizarla posteriormente. también puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente cuando se entra en la aplicación Señales.
+feature: 'Explorador de datos '
 topics: null
 activity: use
 doc-type: feature video
@@ -9,16 +9,15 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 1%
 
 ---
-
 
 # Guardar búsquedas en [!DNL Data Explorer] para mayor comodidad en reutilización {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
