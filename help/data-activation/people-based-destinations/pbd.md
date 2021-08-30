@@ -1,7 +1,7 @@
 ---
 title: Vídeos y Tutorials de People-Based Destinations
 description: Esta sección contiene vídeos y tutoriales sobre temas relacionados con los destinos basados en personas.
-feature: '"Destinos basados en personas"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] Vídeos y Tutorials
 
-[!UICONTROL People-Based Destinations] permite aplicar segmentación en datos en línea y sin conexión para crear segmentos de audiencia basados en identificadores hash, como direcciones de correo electrónico o números de teléfono. A continuación, puede enviar estos segmentos a plataformas sociales como [!DNL Facebook] o [!DNL LinkedIn], donde puede dirigirse a la audiencia.
+[!UICONTROL People-Based Destinations] permite aplicar segmentación en datos en línea y sin conexión para crear segmentos de audiencia basados en identificadores hash, como direcciones de correo electrónico. A continuación, puede enviar estos segmentos a plataformas sociales como [!DNL Facebook] o [!DNL LinkedIn], donde puede dirigirse a la audiencia.
 
 Esta sección contiene vídeos y tutoriales para temas relacionados con [!UICONTROL People-Based Destinations]. Se han incluido en este orden a propósito, a medida que avanza por el flujo/proceso de configuración [!UICONTROL People-Based Destinations]:
 
