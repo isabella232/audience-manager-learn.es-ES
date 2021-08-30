@@ -1,7 +1,7 @@
 ---
 title: Compatibilidad con IAB TCF 2.0 en Audience Manager
 description: Adobe le proporciona los medios para administrar y comunicar las opciones de privacidad de los usuarios a través de la funcionalidad de inclusión y a través del complemento Audience Manager a la compatibilidad con Transparencia IAB y Consentimiento Framework 2.0 (TCF 2.0). Este artículo funciona junto con la documentación para ayudarle a comprender el complemento Audience Manager para IAB TCF y cómo funciona junto con el objeto Opt-in de Adobe y su proveedor de administración de consentimiento (CMP).
-feature: "Data Governance & Privacy"
+feature: Data Governance & Privacy
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,23 +10,22 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1117'
 ht-degree: 0%
 
 ---
 
-# Compatibilidad con IAB TCF 2.0 en el Audience Manager {#iab-tcf-support-in-audience-manager}
+# Compatibilidad con IAB TCF 2.0 en Audience Manager {#iab-tcf-support-in-audience-manager}
 
 Adobe le proporciona los medios para administrar y comunicar las opciones de privacidad de los usuarios a través de la funcionalidad de inclusión y a través del complemento Audience Manager a la compatibilidad con Transparencia IAB y Consentimiento Framework 2.0 (TCF 2.0). Este artículo funciona junto con la documentación para ayudarle a comprender el complemento Audience Manager para IAB TCF y cómo funciona junto con el objeto Opt-in de Adobe y su proveedor de administración de consentimiento (CMP). Para obtener más información sobre la IAB, consulte su sitio Web en [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
 
-## Primer paso: Comprender la inclusión de ECID {#first-step-understand-ecid-s-opt-in}
+## Primer paso: Comprensión de la inclusión de ECID {#first-step-understand-ecid-s-opt-in}
 
-Para comprender cómo trabajar con el TCF de IAB, primero debe comprender la funcionalidad [!DNL Opt-in], que forma parte de la biblioteca del Servicio de ID de Experience Cloud (ECID). Si no está familiarizado con el funcionamiento de Opt-in, consulte [este útil artículo](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) primero. También debe revisar la [documentación](https://docs.adobe.com/content/help/es-ES/id-service/using/implementation/opt-in-service/optin-overview.html) de inclusión. Una vez que haya pasado por esos recursos, vuelva a esta página y continúe.
+Para comprender cómo trabajar con el TCF de IAB, primero debe comprender la funcionalidad [!DNL Opt-in], que forma parte de la biblioteca del Servicio de ID de Experience Cloud (ECID). Si no está familiarizado con el funcionamiento de Opt-in, consulte [este útil artículo](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) primero. También debe revisar la [documentación](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html) de inclusión. Una vez que haya pasado por esos recursos, vuelva a esta página y continúe.
 
-## El complemento Audience Manager para IAB TCF {#the-audience-manager-plug-in-for-iab-tcf}
+## El complemento Audience Manager para el TCF de IAB {#the-audience-manager-plug-in-for-iab-tcf}
 
 Ahora que tiene al menos una comprensión básica de cómo funciona el servicio de inclusión (Opt-in), el Audience Manager puede crear una capa en el soporte [!DNL IAB Transparency and Consent Framework (TCF)], que se realiza mediante un complemento en el objeto de inclusión (Opt-in).
 
@@ -84,10 +83,10 @@ Cuando se utiliza el complemento de Audience Manager para IAB TCF, las opciones 
 
 La advertencia es que si el usuario está en contexto IAB y no da su consentimiento (o proporciona un consentimiento negativo), entonces el Audience Manager no recopila la cadena IAB TC y, como tal, elimina las llamadas. Así que, en ese caso... no pasar el consentimiento a través del flujo descendente.
 
-## Demostración{#demo}
+## Demostración {#demo}
 
 En el siguiente vídeo, vea cómo las cookies y las señalizaciones de ECID y las soluciones se ven afectadas por las selecciones de elección de usuario de IAB.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-Para obtener información más detallada sobre el complemento de Audience Manager para IAB TCF 2.0, incluido cómo implementar y probar, casos de uso y flujo de trabajo, consulte la [documentación](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).
+Para obtener información más detallada sobre el complemento de Audience Manager para IAB TCF 2.0, incluido cómo implementar y probar, casos de uso y flujo de trabajo, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).
