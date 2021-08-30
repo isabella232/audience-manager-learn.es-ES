@@ -4,8 +4,7 @@ user-guide-description: Una recopilación de vídeos y tutoriales de Adobe Analy
 breadcrumb-title: Tutoriales de Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-translation-type: tm+mt
-source-git-commit: 92185bb82356eab8dfb53f79fdbb8b760e313bc3
+source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 4%
@@ -45,7 +44,7 @@ ht-degree: 4%
    + DIL (Data Integration Library) {#dil}
       + [Actualización a la versión 8.0 (o buena) del DIL](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (reenvío del lado del servidor) {#ssf}
-      + [Implementar en sitios web con Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [Implementar en sitios web con Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migración de la implementación de AAM del sitio de un DIL del lado del cliente a un reenvío del lado del servidor](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migración del servidor de seguimiento al reenvío del lado del servidor en el nivel de grupo de informes](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Uso de Tag Manager para implementar el Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -55,9 +54,9 @@ ht-degree: 4%
    + [Formato e ingesta de datos basados en archivos](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Pasos para la ingesta de datos basados en archivos](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementación móvil {#mobile-implementation}
-   + [Implementar en aplicaciones Swift de iOS](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-   + [Implementación en aplicaciones Objective-C de iOS](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-   + [Implementar en aplicaciones de Android](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+   + [Implementar en aplicaciones Swift de iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implementación en aplicaciones Objective-C de iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementar en aplicaciones de Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Comprando datos {#buying-data}
       + [Sistema de informes de uso de datos de segundo nivel y de terceros en Audience Marketplace a nivel de segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -101,8 +100,8 @@ ht-degree: 4%
       + [Explicación de los números del gráfico de segmentos](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Sugerencias al cliente: prácticas recomendadas de características y segmentos](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelos algorítmicos {#algorithmic-models}
-      + [Explicación  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configurar e informar sobre  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Explicación de [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Configurar e informar sobre [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Creación de un modelo de similitud de origen](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exclusión de características en modelos algorítmicos (de similitud)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Aumentar ROAS utilizando modelos algorítmicos (de similitud)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
