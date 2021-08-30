@@ -2,7 +2,7 @@
 title: Migración de la implementación de AAM del sitio de un DIL del lado del cliente a un reenvío del lado del servidor
 description: Este tutorial se aplica si tiene Adobe Audience Manager (AAM) y Adobe Analytics, y actualmente está enviando una visita desde la página a AAM mediante el código "DIL" (Data Integration Library) y también enviando una visita desde la página a Adobe Analytics. Dado que tiene ambas soluciones y que ambas forman parte de Adobe Experience Cloud, tiene la oportunidad de seguir la práctica recomendada de activar el "Reenvío del lado del servidor (SSF)", que permite a los servidores de recopilación de datos de Analytics reenviar los datos de análisis del sitio en tiempo real al Audience Manager, en lugar de hacer que el código del lado del cliente envíe una visita adicional desde la página a AAM. Este tutorial le guiará por los pasos para hacer el cambio de la implementación anterior de "DIL del lado del cliente" al nuevo método de "reenvío del lado del servidor".
 product: audience manager
-feature: Integración de Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
@@ -11,9 +11,9 @@ kt: 1778
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Veremos cada una de estas opciones en la sección Actualización del código .
 
 El requisito previo principal para pasar a [!UICONTROL Server-Side Forwarding] es tener implementado el servicio de ID de Experience Cloud. Esto se hace más fácilmente si utiliza Experience Platform Launch, en cuyo caso simplemente instala la extensión ECID y hará el resto.
 
-Si está utilizando un sistema de administración de etiquetas que no es de Adobe, o ningún sistema de administración de etiquetas, implemente ECID para ejecutar **antes** cualquier otra solución de Adobe. Consulte la [documentación de ECID](https://marketing.adobe.com/resources/help/es_ES/mcvid/) para obtener más información. El único otro requisito previo es el de las versiones de código, por lo que, como simplemente aplica las versiones más recientes del código en los pasos siguientes, estará bien.
+Si está utilizando un sistema de administración de etiquetas que no es de Adobe, o ningún sistema de administración de etiquetas, implemente ECID para ejecutar **antes** cualquier otra solución de Adobe. Consulte la [documentación de ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) para obtener más información. El único otro requisito previo es el de las versiones de código, por lo que, como simplemente aplica las versiones más recientes del código en los pasos siguientes, estará bien.
 
 >[!NOTE]
 >
@@ -191,4 +191,4 @@ Si no está haciendo [!UICONTROL server-side forwarding] de datos de [!DNL Analy
 
 ![falso éxito](assets/falsesuccess.png)
 
-Para obtener más información sobre [!UICONTROL Server-Side Forwarding], consulte la [documentación](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html).
+Para obtener más información sobre [!UICONTROL Server-Side Forwarding], consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

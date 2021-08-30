@@ -2,7 +2,7 @@
 title: Migración del servidor de seguimiento al reenvío del lado del servidor en el nivel de grupo de informes
 description: Este artículo y vídeo le mostrarán cómo habilitar el reenvío de datos de Analytics del lado del servidor al Audience Manager a nivel de grupo de informes en lugar de a nivel de servidor de seguimiento.
 product: audience manager
-feature: Integración de Adobe Analytics
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Si no está seguro de si [!DNL tracking server forwarding] está habilitado para
 
 ## [!UICONTROL Report Suite]-Nivel [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-Una de las mayores ventajas de pasar al reenvío [!UICONTROL report suite] desde el reenvío [!UICONTROL tracking server] es que ahora podrá utilizar el &quot;Audience Analytics&quot;, que es la capacidad de reenviar el Audience Manager [!UICONTROL segments] a Adobe Analytics para realizar un análisis detallado [!UICONTROL segment]. Esta buena función NO es compatible si todavía se encuentra en el reenvío [!UICONTROL tracking server] y no en el reenvío [!UICONTROL report suite]. Consulte más información sobre el Audience Analytics en la [documentación](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+Una de las mayores ventajas de pasar al reenvío [!UICONTROL report suite] desde el reenvío [!UICONTROL tracking server] es que ahora podrá utilizar el &quot;Audience Analytics&quot;, que es la capacidad de reenviar el Audience Manager [!UICONTROL segments] a Adobe Analytics para realizar un análisis detallado [!UICONTROL segment]. Esta buena función NO es compatible si todavía se encuentra en el reenvío [!UICONTROL tracking server] y no en el reenvío [!UICONTROL report suite]. Consulte más información sobre el Audience Analytics en la [documentación](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

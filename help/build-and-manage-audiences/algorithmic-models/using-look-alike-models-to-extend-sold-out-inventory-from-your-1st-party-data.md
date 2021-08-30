@@ -1,7 +1,7 @@
 ---
 title: Uso de modelos de similitud para ampliar el inventario vendido a partir de los datos de origen
 description: En este tutorial, explicaremos los pasos que debe seguir para configurar y utilizar modelos de similitud, de modo que pueda crear nuevas audiencias parecidas y venderlas como una extensión a su segmento de conversión.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Además, al usar eventos para crear [!UICONTROL traits], hay una gotcha importan
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**NOTA:** En el vídeo anterior, el ejemplo que mostré supone que tiene Adobe Analytics. Obviamente, tal vez no sea así. Si tiene Google Analytics (GA), tenemos un módulo que puede usar para enviar datos a AAM (consulte la [documentación](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)) y, si la actividad de conversión de su sitio se envía a AAM por medio de GA, puede crear el rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o ninguna solución de análisis), aún puede enviar datos a AAM mediante nuestro código de DIL y la función `submit` , etc. (consulte la [documentación](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). A continuación, de nuevo, cree el rasgo de conversión en función de los datos enviados cuando se realiza la actividad de conversión en el sitio.
+**NOTA:** En el vídeo anterior, el ejemplo que mostré supone que tiene Adobe Analytics. Obviamente, tal vez no sea así. Si tiene Google Analytics (GA), tenemos un módulo que puede usar para enviar datos a AAM (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)) y, si la actividad de conversión de su sitio se envía a AAM por medio de GA, puede crear el rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o ninguna solución de análisis), aún puede enviar datos a AAM mediante nuestro código de DIL y la función `submit` , etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). A continuación, de nuevo, cree el rasgo de conversión en función de los datos enviados cuando se realiza la actividad de conversión en el sitio.
 
 ## Creación de una apariencia [!UICONTROL Model] a partir de datos [!UICONTROL First Party] {#creating-a-look-alike-model-from-first-party-data}
 

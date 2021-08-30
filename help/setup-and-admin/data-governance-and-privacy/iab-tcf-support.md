@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Una de las ventajas de utilizar el TCF de la IAB es que los propósitos estánda
 
 Para que el Audience Manager sea aprobado (es decir, para que la traducción de los objetivos de la IAB para la inclusión AAM un voto afirmativo), los objetivos 1 y 10, enumerados anteriormente, deben ser aprobados por el usuario final. Si alguno de estos no está aprobado, o si un vendedor no está aprobado, no AAM ejecutar activaciones de píxeles ni establecer cookies. También es bueno saber que muchos clientes simplemente eligen proporcionar al usuario final una interfaz de usuario &quot;todo o nada&quot;, que, por supuesto, permitiría o no el uso de Audience Manager (y las otras soluciones de Experience Cloud).
 
-Hay información buena en la [documentación](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) sobre cómo se aplica el flujo del complemento Audience Manager para el TCF de IAB a los casos de uso de Publisher y del anunciante.
+Hay información buena en la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) sobre cómo se aplica el flujo del complemento Audience Manager para el TCF de IAB a los casos de uso de Publisher y del anunciante.
 
 ## IAB: Envío de consentimiento descendente {#iab-sending-consent-downstream}
 
