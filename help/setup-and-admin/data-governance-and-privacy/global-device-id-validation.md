@@ -10,10 +10,9 @@ kt: 2977
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
@@ -77,14 +76,14 @@ Configurar el ID del anunciante en la aplicación es realmente un proceso de dos
 
 1. Recuperar el ID
    1. [!DNL Apple] la información sobre el  [!DNL advertising ID] puede encontrarse  [AQUÍ](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
-   1. Se puede encontrar [HERE](http://www.androiddocs.com/google/play-services/id.html) información sobre la configuración de [!DNL advertiser ID] para los desarrolladores de [!DNL Android].
+   1. Se puede encontrar [HERE](http://android.cn-mirrors.com/google/play-services/id.html) información sobre la configuración de [!DNL advertiser ID] para los desarrolladores de [!DNL Android].
 1. Enviarlo al Experience Cloud mediante el método [!DNL setAdvertisingIdentifier] en el SDK
    1. La información para utilizar `setAdvertisingIdentifier` se encuentra en la [documentación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) tanto para [!DNL iOS] como para [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
-## Mensajes de error de DCS para ID incorrectos {#dcs-error-messaging-for-incorrect-ids}
+## Mensajes de error de DCS para ID incorrectos  {#dcs-error-messaging-for-incorrect-ids}
 
 Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en tiempo real al Audience Manager, se devuelve un código de error en la visita. A continuación se muestra un ejemplo de error devuelto porque el ID se envía como [!DNL Apple IDFA], que solo debe contener letras mayúsculas y, sin embargo, hay una &quot;x&quot; en minúscula en el ID.
 
@@ -92,7 +91,7 @@ Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en ti
 
 Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) para obtener la lista de códigos de error.
 
-## Incorporación de ID de dispositivo globales {#onboarding-global-device-ids}
+## Integración de ID de dispositivo globales {#onboarding-global-device-ids}
 
 Además del envío en tiempo real de ID de dispositivos globales, también puede cargar datos con respecto a los ID. [!DNL onboard] Este proceso es el mismo que cuando se incorporan datos a los ID de cliente (normalmente mediante pares clave/valor), pero simplemente se usan los ID de fuente de datos adecuados, de modo que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Recuerde utilizar el ID [!UICONTROL data source] global, según la plataforma que utilice.
 

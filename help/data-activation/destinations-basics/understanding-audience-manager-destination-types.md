@@ -8,9 +8,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ Este vídeo le guiará por los diferentes tipos de [!UICONTROL destinations] en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Puede descargar una lista de [!UICONTROL destination] socios [HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) de servidor a servidor.
+Puede ver una lista de los socios de destino de servidor a servidor disponibles en la [documentación de Destinos basados en dispositivos de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).
+Para obtener más información sobre los destinos, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).
