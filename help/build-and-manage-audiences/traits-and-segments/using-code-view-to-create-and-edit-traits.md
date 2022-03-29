@@ -1,7 +1,7 @@
 ---
-title: Uso de la vista de código para crear y editar características
+title: Utilice la vista de código para crear y editar características
 description: Aprenda a utilizar la vista de código al crear nuevas características o al editar las existentes. La vista de código es una alternativa al Generador de expresiones al establecer la expresión de características.
-feature: 'Rasgos '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6441
 role: User
 level: Intermediate
 exl-id: 763bbc25-57f1-456a-b94c-7c5c1ec1e3bb
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 0%
 
 ---
 
-# Uso de la vista de código para crear y editar características
+# Utilice la vista de código para crear y editar características
 
 Aprenda a utilizar la vista de código al crear nuevas características o al editar las existentes. La vista de código es una alternativa al Generador de expresiones al establecer la expresión de características.
 

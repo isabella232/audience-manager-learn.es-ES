@@ -1,7 +1,7 @@
 ---
-title: Creación y uso de reglas de combinación de perfiles simples
+title: Crear y utilizar reglas de combinación de perfiles sencillas
 description: Obtenga información sobre las reglas de combinación de perfiles y cómo asignarlas a segmentos. Obtenga información sobre el perfil predeterminado "Dispositivo actual" y cuándo se puede/se debe utilizar.
-feature: Combinación de perfiles
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5356
 role: User
 level: Beginner
 exl-id: de4910a5-9e89-4b38-9cf3-34c5fe658632
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Creación y uso simples [!UICONTROL Profile Merge Rules]
+# Crear y utilizar sencillos [!UICONTROL Profile Merge Rules]
 
-Obtenga información sobre las reglas de combinación de perfiles y cómo asignarlas a segmentos. Obtenga información sobre el perfil predeterminado &quot;Dispositivo actual&quot; y cuándo se puede/se debe utilizar.
+Obtenga información sobre [!UICONTROL Profile Merge Rules] y cómo asignarlas a segmentos. Obtenga información sobre la configuración predeterminada [!UICONTROL Current Device] y cuándo puede y debe usarse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

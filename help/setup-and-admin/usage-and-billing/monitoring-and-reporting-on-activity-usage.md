@@ -1,6 +1,6 @@
 ---
-title: Monitorización e informes del uso de la actividad
-description: En este vídeo, explicaremos cómo usar el informe Uso de actividades , incluidas las opciones de visualización y descarga.
+title: Monitorización e informe del uso de las actividades
+description: En este vídeo, aprenderá a usar el informe Uso de actividades , incluidas las opciones de visualización y descarga.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -11,16 +11,16 @@ topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Monitorización e informes del uso de la actividad
+# Monitorización e informe del uso de las actividades
 
-En este vídeo, explicaremos cómo utilizar [!DNL Activity Usage Report], incluidas las opciones de visualización y descarga.
+En este vídeo, explicaremos cómo usar la variable [!UICONTROL Activity Usage Report], incluidas las opciones de visualización y descarga.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

@@ -1,7 +1,7 @@
 ---
 title: Explicación de la ingesta de datos PII con hash para destinos basados en personas
 description: Este vídeo tratará sobre lo que debe tener en cuenta a medida que esté listo para ingerir PII en Audience Manager para destinos basados en personas.
-feature: '"Destinos basados en personas"'
+feature: People-based Destinations
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3701
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b0faf25-eeca-4451-8484-0fa0e02f4879
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Explicación de la ingesta de datos PII con hash para [!UICONTROL People-Based Destinations]
+# Explicación de la ingesta de datos PII con hash para destinos basados en personas
 
-Este vídeo tratará sobre lo que debe tener en cuenta a medida que esté preparado para ingerir PII en Audience Manager para [!UICONTROL People-Based Destinations].
+Este vídeo tratará sobre lo que debe tener en cuenta a medida que esté listo para ingerir PII en Audience Manager para destinos basados en personas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

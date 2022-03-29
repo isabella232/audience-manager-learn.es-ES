@@ -1,7 +1,7 @@
 ---
-title: Uso de Tag Manager para implementar el Audience Manager
-description: En este vídeo aprenderá los conceptos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
-feature: Conceptos básicos de implementación
+title: Usar los administradores de etiquetas para implementar el Audience Manager
+description: Conozca los aspectos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,22 +10,22 @@ kt: 4051
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8559ff60-0755-4cbb-9f2c-d06ab37a64a4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Uso de Tag Manager para implementar el Audience Manager
+# Usar los administradores de etiquetas para implementar el Audience Manager
 
-En este vídeo aprenderá los conceptos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
+En este vídeo, aprenderá los conceptos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
 
 Se destacan los siguientes casos de uso:
 
-* Implementación mediante Adobe Experience Platform Launch cuando también utilice Adobe Analytics
-* Implementación mediante Adobe Experience Platform Launch cuando NO utilice Adobe Analytics
-* Implementación mediante un administrador de etiquetas que no sea de Adobe cuando se utiliza Adobe Analytics
-* Implementar a través de un administrador de etiquetas que no sea de Adobe cuando NO esté utilizando Adobe Analytics
+* Implementar mediante etiquetas de Adobe Experience Platform (anteriormente, Launch) al utilizar también Adobe Analytics
+* Implemente mediante etiquetas de Adobe Experience Platform cuando no utilice Adobe Analytics
+* Implementar mediante un administrador de etiquetas que no sea de Adobe al utilizar Adobe Analytics
+* Implemente a través de un administrador de etiquetas que no sea de Adobe cuando no utilice Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

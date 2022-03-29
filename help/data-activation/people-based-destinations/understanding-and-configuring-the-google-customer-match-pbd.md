@@ -1,7 +1,7 @@
 ---
 title: Explicación y configuración del destino de Google Customer Match basado en personas
-description: Este vídeo le explica los detalles y casos de uso del destino de Google Customer Match basado en personas, e incluye una introducción para crear un segmento y asignarlo a un destino. También muestra el aterrizaje de la audiencia en Google Ad Console.
-feature: '"Destinos basados en personas"'
+description: Este vídeo le explica los detalles y casos de uso del destino basado en personas de Google Customer Match e incluye una descripción general de la creación de un segmento y su asignación a un destino. También muestra el aterrizaje de la audiencia en Google Ad Console.
+feature: People-based Destinations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 6042
 role: User
 level: Beginner
 exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

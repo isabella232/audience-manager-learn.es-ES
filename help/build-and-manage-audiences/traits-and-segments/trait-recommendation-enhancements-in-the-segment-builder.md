@@ -1,8 +1,7 @@
 ---
-title: Mejoras en la recomendación de características en el Generador de segmentos
-description: En este vídeo verá cómo se utilizan las recomendaciones de características actualizadas en el generador de segmentos, que son recomendaciones de Audience Marketplace. Esto le proporcionará información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
+title: Mejoras en la recomendación de características en la segmentación
+description: En este vídeo, aprenderá a utilizar las recomendaciones de características actualizadas en Segmentos, que son recomendaciones de Audience Marketplace. Obtenga información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
 feature: Segments
-topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,16 +10,16 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] Mejoras en la  [!DNL Segment Builder]
+# [!DNL Trait Recommendation] mejoras en segmentación
 
-En este vídeo verá cómo utilizar el [!DNL trait recommendations] actualizado en [!DNL segment builder], que son recomendaciones de Audience Marketplace. Esto le proporcionará una perspectiva adicional de los datos [!DNL third party] que pueden ampliar el alcance de su [!UICONTROL segments].
+En este vídeo, aprenderá a utilizar las recomendaciones de características actualizadas en [!UICONTROL Segments], que son [!UICONTROL Audience Marketplace] recomendaciones. Esto le proporcionará información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

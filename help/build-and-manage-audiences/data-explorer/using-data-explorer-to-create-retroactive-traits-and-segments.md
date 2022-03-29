@@ -1,7 +1,7 @@
 ---
-title: Uso de la Data Explorer para crear rasgos y segmentos retroactivos
-description: Este vídeo muestra cómo crear rasgos retroactivos, es decir, rasgos que rellenan los datos en el rasgo desde antes de crearlos. ¡Este es un bueno avance en la creación de rasgos!
-feature: 'Explorador de datos '
+title: Utilice la Data Explorer para crear rasgos y segmentos retroactivos
+description: Aprenda a crear rasgos retroactivos, como rasgos que rellenan los datos en el rasgo antes de crearlos. ¡Este es un bueno avance en la creación de rasgos!
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 1762
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '172'
+ht-degree: 0%
 
 ---
 
-# Uso de [!DNL Data Explorer] para crear [!UICONTROL Traits] y [!UICONTROL Segments] retroactivos {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# Uso [!UICONTROL Data Explorer] para crear rasgos y segmentos retroactivos {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-Este vídeo muestra cómo crear una [!UICONTROL traits] retroactiva, es decir: [!UICONTROL traits] que rellenan los datos en el [!UICONTROL trait] desde antes de crearlos. Este es un bueno avance en la creación de [!UICONTROL trait].
+Este vídeo muestra cómo crear rasgos retroactivos, como rasgos que rellenan los datos en el rasgo antes de crearlos. ¡Este es un bueno avance en la creación de rasgos!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-Hasta ahora, cuando creó [!UICONTROL traits], solo recopilaron datos que avancen. Esto significa que tuvimos que crear un montón de [!UICONTROL traits] &quot;por si acaso&quot; recibieron tráfico/datos en ellos. Ahora puede esperar a ver qué pares de clave/valor reciben datos y luego crear un [!UICONTROL trait] y rellenar los datos en ese [!UICONTROL trait]. Esto le ahorra tiempo y energía, y también le ayuda a mantener su taxonomía [!UICONTROL trait] ajustada, en lugar de tener un grupo de [!UICONTROL traits] que no tienen datos en ellos.
+Hasta ahora, al crear características, solo recopilaban datos al avanzar. Esto significa que tuvo que crear muchos rasgos en caso de que recibieran tráfico o datos. Ahora, puede esperar a ver qué pares de clave/valor reciben datos y luego crear un rasgo y rellenar los datos en ese rasgo. Esto le ahorra tiempo y energía y también le ayuda a mantener ajustada su taxonomía de rasgos, en lugar de tener varios rasgos que no tienen datos.
 
-Para obtener más información sobre [!DNL Data Explorer], visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obtener más información, consulte [!DNL Data Explorer], visita [Data Explorer: información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

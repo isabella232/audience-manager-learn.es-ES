@@ -1,7 +1,7 @@
 ---
-title: Guardar búsquedas en Data Explorer para mayor comodidad en reutilización
-description: En este vídeo, aprenderá a configurar una búsqueda en Data Explorer, ejecutarla y luego guardarla para reutilizarla posteriormente. también puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente cuando se entra en la aplicación Señales.
-feature: 'Explorador de datos '
+title: Guarde las búsquedas en Data Explorer para reutilizarlas fácilmente
+description: En este vídeo, aprenda a configurar una búsqueda en Data Explorer, ejecutarla y luego guardarla para volver a utilizarla posteriormente. También puede colocar la búsqueda guardada en el tablero para que esté disponible inmediatamente cuando entra en la aplicación Señales.
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -12,17 +12,17 @@ kt: 1763
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 1%
+source-wordcount: '125'
+ht-degree: 0%
 
 ---
 
-# Guardar búsquedas en [!DNL Data Explorer] para mayor comodidad en reutilización {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Guardar búsquedas en [!UICONTROL Data Explorer] para una reutilización conveniente {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-En este vídeo aprenderá a configurar una búsqueda en [!DNL Data Explorer], ejecutarla y luego guardarla para reutilizarla más adelante. también puede colocar la búsqueda guardada en el tablero para que esté disponible inmediatamente cuando entra en la aplicación [!UICONTROL Signals].
+En este vídeo, aprenda a configurar una búsqueda en [!DNL Data Explorer], ejecútelo y, a continuación, guárdelo para volver a utilizarlo más tarde. También puede colocar la búsqueda guardada en el tablero para que esté disponible inmediatamente cuando entre en el [!UICONTROL Signals] aplicación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Para obtener más información sobre [!DNL Data Explorer], visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obtener más información, consulte [!UICONTROL Data Explorer], visita [Data Explorer: información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

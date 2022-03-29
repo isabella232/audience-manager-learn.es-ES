@@ -1,7 +1,7 @@
 ---
-title: Uso de actualización y frecuencia en los segmentos
+title: Uso de actualización y frecuencia en segmentos
 description: Utilice Actualización y Frecuencia para darle a su segmento parámetros sobre cuántas veces un visitante debe cumplir los requisitos para una característica en un período determinado. Bueno para casos de uso de afinidad de contenido y restricción de frecuencia, así como otros.
-feature: 'Segmentos '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5866
 role: User
 level: Beginner
 exl-id: eba827a3-38c9-4136-bc73-3783f4be8c1c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '86'
+ht-degree: 0%
 
 ---
 
-# Uso de [!UICONTROL Recency] y [!UICONTROL Frequency] en segmentos
+# Uso [!UICONTROL Recency] y [!UICONTROL Frequency] en segmentos
 
-Utilice [!UICONTROL Recency] y [!UICONTROL Frequency] para darle a su segmento parámetros sobre cuántas veces un visitante debe cumplir los requisitos para un rasgo en un período de tiempo determinado. Bueno para casos de uso de afinidad de contenido y restricción de frecuencia, así como otros.
+Uso [!UICONTROL Recency] y [!UICONTROL Frequency] para darle a su segmento parámetros sobre cuántas veces un visitante debe cumplir los requisitos para una característica en un período de tiempo determinado. Bueno para casos de uso de afinidad de contenido y restricción de frecuencia, así como otros.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

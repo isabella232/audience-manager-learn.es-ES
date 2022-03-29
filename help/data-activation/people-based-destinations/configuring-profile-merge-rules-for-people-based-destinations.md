@@ -1,7 +1,7 @@
 ---
 title: Configuración de reglas de combinación de perfiles para destinos basados en personas
 description: En este vídeo, aprenderá a configurar una regla de combinación de perfiles para utilizarla en destinos basados en personas, incluido cuándo utilizar una nueva opción entre dispositivos.
-feature: '"Destinos basados en personas"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3342
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Configuración de [!UICONTROL Profile Merge Rules] para [!UICONTROL People-Based Destinations]
+# Configurar [!UICONTROL Profile Merge Rules] para destinos basados en personas
 
-En este vídeo, aprenderá a configurar un [!UICONTROL Profile Merge Rule] para utilizarlo con [!UICONTROL People-Based Destinations], incluido cuándo utilizar una nueva opción entre dispositivos.
+En este vídeo, aprenderá a configurar un [!UICONTROL Profile Merge Rule] que se utilizará para destinos basados en personas, incluido cuándo utilizar una nueva opción entre dispositivos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

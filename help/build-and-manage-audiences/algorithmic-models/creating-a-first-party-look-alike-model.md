@@ -1,7 +1,7 @@
 ---
-title: Creación de un modelo de similitud de origen en AAM
+title: Creación de un modelo de similitud de origen
 description: En este vídeo aprenderá a crear un modelo de similitud de origen, de modo que pueda encontrar más visitantes que se parezcan a sus convertidores.
-feature: Modelos algorítmicos
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ kt: 1805
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Creación de un [!UICONTROL First Party] similitud [!UICONTROL Model] en AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Creación de un modelo de similitud de origen en el Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-En este vídeo, aprenderá a crear un [!UICONTROL first party] parecido [!UICONTROL model] para que pueda encontrar más de sus propios visitantes que se parezcan a sus convertidores.
+En este vídeo aprenderá a crear un modelo de similitud de origen, de modo que pueda encontrar más visitantes que se parezcan a sus convertidores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
