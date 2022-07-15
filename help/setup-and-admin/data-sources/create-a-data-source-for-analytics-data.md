@@ -1,7 +1,7 @@
 ---
 title: Crear una fuente de datos para datos de Analytics
-description: Obtenga información sobre cómo crear una fuente de datos para los datos que llegan en directo desde una solución de análisis como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
-landing-page-description: Obtenga información sobre cómo crear una fuente de datos para los datos que llegan en directo desde una solución de análisis como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
+description: Aprenda a crear una fuente de datos para los datos que se activan desde una solución de análisis, como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
+landing-page-description: Aprenda a crear una fuente de datos para los datos que se activan desde una solución de análisis, como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -11,7 +11,7 @@ exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 27%
+ht-degree: 60%
 
 ---
 
