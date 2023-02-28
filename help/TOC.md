@@ -55,7 +55,7 @@ ht-degree: 3%
 + Integración de datos sin conexión {#integrating-offline-data}
    + [Formato e ingesta de datos basados en archivos](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Pasos para la ingesta de datos basados en archivos](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Implementación de Mobile {#mobile-implementation}
++ Implementación móvil {#mobile-implementation}
    + [Implementar en aplicaciones iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Implementar en aplicaciones Objective-C de iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementar en aplicaciones de Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
@@ -163,4 +163,4 @@ ht-degree: 3%
    + Integración con Ad Cloud {#integrating-with-ad-cloud}
       + [Integración de Adobe Advertising Cloud y Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + de visitante{#api}
-   + [Recuperar credenciales de API en el desarrollador de Adobe](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Recuperar credenciales de API en Adobe Developer](api/retrieve-api-credentials-in-adobe-io.md)
