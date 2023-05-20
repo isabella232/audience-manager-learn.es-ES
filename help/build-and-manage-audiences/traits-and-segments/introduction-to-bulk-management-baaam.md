@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración masiva (BAAAM)
-description: Obtenga información sobre la herramienta de administración masiva de Audience Manager, denominada comúnmente como "BAAAM". Consulte cómo autenticarse para poder usar la hoja BAAAM para crear, editar y eliminar rasgos y segmentos a través de la API de REST.
+description: Obtenga información acerca de la herramienta Administración masiva de Audience Manager, denominada comúnmente "BAAAM". Consulte cómo autenticarse para poder utilizar la hoja BAAAM para crear, editar y eliminar características y segmentos a través de la API de REST.
 feature: BAAAM
 topics: null
 activity: use
@@ -13,13 +13,13 @@ level: Beginner
 exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
 # Introducción a la administración masiva (BAAAM)
 
-Obtenga información sobre la herramienta [!UICONTROL Bulk Management] del Audience Manager, denominada comúnmente &quot;BAAAM&quot;. Consulte cómo autenticarse para poder usar la hoja BAAAM para crear, editar y eliminar rasgos y segmentos a través de la API de REST.
+Más información sobre el Audience Manager [!UICONTROL Bulk Management] herramienta, comúnmente conocida como &quot;BAAAM&quot;. Consulte cómo autenticarse para poder utilizar la hoja BAAAM para crear, editar y eliminar características y segmentos a través de la API de REST.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)

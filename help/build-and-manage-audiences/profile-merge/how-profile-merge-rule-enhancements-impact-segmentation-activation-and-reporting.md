@@ -1,6 +1,6 @@
 ---
-title: Efecto de las mejoras en la regla de combinación de perfiles en la segmentación, la activación y la creación de informes
-description: Explicación de cómo las mejoras en las reglas de combinación de perfiles afectarán a las poblaciones totales de rasgos y segmentos en la interfaz de usuario del Audience Manager
+title: Efecto de las mejoras en la regla de combinación de perfiles en la segmentación, activación y creación de informes
+description: Explicación de cómo afectarán las mejoras de las reglas de combinación de perfiles a las poblaciones totales de rasgos y segmentos en la IU de Audience Manager
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Cómo [!UICONTROL Profile Merge Rule] mejoras en la segmentación de impacto, activación y sistema de informes
+# Cómo [!UICONTROL Profile Merge Rule] mejoras en la segmentación de impacto, activación y creación de informes
 
-Explicación de cómo [!UICONTROL Profile Merge Rule] Las mejoras afectarán [!UICONTROL Total Trait] y [!UICONTROL Segment Populations] en Audience Manager.
+Explicación de cómo [!UICONTROL Profile Merge Rule] Las mejoras afectarán a [!UICONTROL Total Trait] y [!UICONTROL Segment Populations] en Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

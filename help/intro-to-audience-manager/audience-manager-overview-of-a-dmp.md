@@ -1,6 +1,6 @@
 ---
-title: 'Audience Manager: Información general de un DMP'
-description: Comprenda los desafíos clave con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, descubra qué tipos de datos se pueden incorporar en el Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con el Audience Manager.
+title: 'Audience Manager: información general de un DMP'
+description: Comprenda los principales desafíos con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, conozca qué tipos de datos se pueden incorporar en Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con Audience Manager.
 feature: Overview
 topics: null
 activity: understand
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager: Información general de un DMP
+# Audience Manager: información general de un DMP
 
-Comprenda los desafíos clave con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, descubra qué tipos de datos se pueden incorporar en el Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con el Audience Manager.
+Comprenda los principales desafíos con la personalización entre canales y cómo Adobe Audience Manager impulsa el recorrido del cliente. Además, conozca qué tipos de datos se pueden incorporar en Audience Manager e identifique a los socios de ecosistema de tecnología de publicidad integrados con Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

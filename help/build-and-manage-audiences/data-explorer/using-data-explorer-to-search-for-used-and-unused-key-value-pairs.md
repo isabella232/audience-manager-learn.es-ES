@@ -1,6 +1,6 @@
 ---
 title: Utilice la Data Explorer para buscar pares de clave/valor utilizados y no utilizados
-description: En el trabajo diario en el Audience Manager, es posible que necesite saber rápidamente si se ha creado un rasgo a partir de un par clave/valor específico. Este vídeo muestra cómo averiguar con Data Explorer.
+description: En el trabajo diario en Audience Manager, es posible que tenga que averiguar rápidamente si un rasgo se ha creado a partir de un par clave/valor específico. Este vídeo muestra cómo averiguarlo con Data Explorer.
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Uso [!UICONTROL Data Explorer] para buscar pares de clave/valor utilizados y no utilizados en AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Uso [!UICONTROL Data Explorer] AAM para buscar pares de clave/valor utilizados y no utilizados en la {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-En el trabajo diario en el Audience Manager, es posible que necesite saber rápidamente si se ha creado un rasgo a partir de un par clave/valor específico. Este vídeo le muestra cómo averiguarlo con [!UICONTROL Data Explorer].
+En el trabajo diario en Audience Manager, es posible que tenga que averiguar rápidamente si un rasgo se ha creado a partir de un par clave/valor específico. Este vídeo muestra cómo averiguar con [!UICONTROL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-Para averiguar si se ha creado una señal en un rasgo, ya no tiene que descargar un archivo BAAAM y también el [!UICONTROL Unused Signals] informe. Ahora puede simplemente buscar ese par clave/valor en [!DNL Data Explorer], también se denomina [!UICONTROL Signals] App, en AAM y busque pares de clave/valor que estén en características y que no estén en la misma lista. ¡bueno ahorrador de tiempo!
+Para averiguar si una señal se ha creado en un rasgo, ya no tiene que descargar un archivo BAAAM y también el [!UICONTROL Unused Signals] informe. Ahora puede buscar simplemente ese par clave/valor en [!DNL Data Explorer], también conocido como [!UICONTROL Signals] AAM La aplicación, en la y encuentre pares de clave/valor que estén en rasgos y los que no, todos en la misma lista. ¡bueno ahorrador de tiempo!
 
-Para obtener más información, consulte [!UICONTROL Data Explorer], visita [Data Explorer: información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer: Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

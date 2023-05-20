@@ -1,6 +1,6 @@
 ---
-title: Mejoras en la recomendación de características en la segmentación
-description: En este vídeo, aprenderá a utilizar las recomendaciones de características actualizadas en Segmentos, que son recomendaciones de Audience Marketplace. Obtenga información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
+title: Mejoras en la segmentación de recomendaciones de rasgos
+description: En este vídeo, aprenderá a utilizar las recomendaciones de características actualizadas en Segmentos, que son recomendaciones del Audience Marketplace. Obtenga información adicional sobre datos de terceros que pueden ampliar el alcance de sus segmentos.
 feature: Segments
 activity: setup
 doc-type: feature video
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] mejoras en segmentación
+# [!DNL Trait Recommendation] mejoras en la segmentación
 
-En este vídeo, aprenderá a utilizar las recomendaciones de características actualizadas en [!UICONTROL Segments], que son [!UICONTROL Audience Marketplace] recomendaciones. Esto le proporcionará información adicional sobre los datos de terceros que pueden ampliar el alcance de sus segmentos.
+En este vídeo, aprenderá a utilizar las recomendaciones de rasgos actualizadas en [!UICONTROL Segments], que son [!UICONTROL Audience Marketplace] recomendaciones. Esto le proporcionará una perspectiva adicional de los datos de terceros que pueden ampliar el alcance de sus segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

@@ -1,6 +1,6 @@
 ---
-title: Monitorización e informe del uso de las actividades
-description: En este vídeo, aprenderá a usar el informe Uso de actividades , incluidas las opciones de visualización y descarga.
+title: Monitorización e informes sobre el uso de la actividad
+description: En este vídeo, aprenderá a utilizar el Informe de uso de actividades, incluidas las opciones de visualización y descarga.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Monitorización e informe del uso de las actividades
+# Monitorización e informes sobre el uso de la actividad
 
-En este vídeo, explicaremos cómo usar la variable [!UICONTROL Activity Usage Report], incluidas las opciones de visualización y descarga.
+En este vídeo, explicaremos cómo utilizar la variable [!UICONTROL Activity Usage Report], incluidas las opciones de visualización y descarga.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

@@ -1,6 +1,6 @@
 ---
-title: Asignación de segmentos a un destino basado en dispositivos
-description: Obtenga información sobre cómo asignar segmentos a un destino basado en dispositivos, también conocido como destino _servidor a servidor_ . Para enviar un segmento de audiencia a un DSP u otro socio, debe asignar el segmento a un destino en Audience Manager.
+title: Asignar segmentos a un destino basado en dispositivos
+description: Obtenga información sobre cómo asignar segmentos a un destino basado en dispositivos, también conocido como destino de servidor a servidor. DSP Para enviar un segmento de audiencia a una audiencia u otro socio, debe asignar el segmento a un destino en Audience Manager.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Asignación de segmentos a un destino basado en dispositivos
+# Asignar segmentos a un destino basado en dispositivos
 
-Para enviar un segmento de audiencia a un DSP u otro socio, debe asignar el segmento a un destino en Audience Manager. Este vídeo recorre la asignación de segmentos a un destino basado en dispositivos, también conocido como _servidor a servidor_ destino.
+DSP Para enviar un segmento de audiencia a un destino u otro socio, debe asignar el segmento a un destino en Audience Manager. Este vídeo muestra la asignación de segmentos a un destino basado en dispositivos, también conocido como _de servidor a servidor_ destino.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

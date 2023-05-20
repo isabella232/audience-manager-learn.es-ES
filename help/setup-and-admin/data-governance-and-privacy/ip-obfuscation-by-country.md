@@ -1,6 +1,6 @@
 ---
-title: Confusión de IP por país
-description: Obtenga información sobre la confusión de IP por país en Audience Manager. Esta aplicación proporciona capacidad de autoservicio en la interfaz de usuario para permitir a los clientes activar la confusión de IP globalmente o por país. Este vídeo lo acompaña durante la configuración.
+title: Ofuscación de IP por país
+description: Obtenga información acerca de la confusión de IP por país en Audience Manager. Esta aplicación proporciona capacidad de autoservicio en la interfaz de usuario para permitir a los clientes activar la confusión de IP globalmente o por país. Este vídeo lo acompaña durante la configuración.
 feature: Data Governance & Privacy
 topics: null
 activity: use
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Confusión de IP por país en el Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Manager proporciona capacidad de autoservicio en la interfaz de usuario para permitir a los clientes activar la confusión de IP de forma global o por país. Este vídeo lo acompaña durante la configuración.
+Audience Manager proporciona capacidad de autoservicio en la interfaz de usuario para permitir a los clientes activar la confusión de IP globalmente o por país. Este vídeo lo acompaña durante la configuración.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Para obtener más información sobre esta función, visite el [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Para obtener más información acerca de esta funcionalidad, visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).

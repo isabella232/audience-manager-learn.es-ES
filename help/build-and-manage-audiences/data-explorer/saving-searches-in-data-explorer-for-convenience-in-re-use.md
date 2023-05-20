@@ -1,6 +1,6 @@
 ---
-title: Guarde las búsquedas en Data Explorer para reutilizarlas fácilmente
-description: En este vídeo, aprenda a configurar una búsqueda en Data Explorer, ejecutarla y luego guardarla para volver a utilizarla posteriormente. También puede colocar la búsqueda guardada en el tablero para que esté disponible inmediatamente cuando entra en la aplicación Señales.
+title: Guarde las búsquedas en la Data Explorer para reutilizarlas más cómodamente
+description: En este vídeo, aprenderá a configurar una búsqueda en Data Explorer, ejecutarla y, a continuación, guardarla para reutilizarla más adelante. También puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente al entrar en la aplicación de señales.
 feature: Data Explorer
 topics: null
 activity: use
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Guardar búsquedas en [!UICONTROL Data Explorer] para una reutilización conveniente {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Guardar búsquedas en [!UICONTROL Data Explorer] para una reutilización cómoda {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-En este vídeo, aprenda a configurar una búsqueda en [!DNL Data Explorer], ejecútelo y, a continuación, guárdelo para volver a utilizarlo más tarde. También puede colocar la búsqueda guardada en el tablero para que esté disponible inmediatamente cuando entre en el [!UICONTROL Signals] aplicación.
+En este vídeo, aprenderá a configurar una búsqueda en [!DNL Data Explorer], ejecútelo y, a continuación, guárdelo para volver a utilizarlo más adelante. También puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente cuando entre en el [!UICONTROL Signals] aplicación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Para obtener más información, consulte [!UICONTROL Data Explorer], visita [Data Explorer: información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer: Información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

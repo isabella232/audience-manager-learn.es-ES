@@ -1,6 +1,6 @@
 ---
-title: Crear un rasgo de conversión
-description: Some of your traits are based on conversions on your site. In this video, learn how to designate them as such, and learn a very important tip/gotcha.
+title: Crear una característica de conversión
+description: Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenderá a designarlos como tales y aprenderá una sugerencia/pregunta muy importante.
 feature: Traits
 topics: null
 activity: use
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Crear un rasgo de conversión en Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Crear una característica de conversión en Audience Manager {#creating-conversion-traits-in-audience-manager}
 
-Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenda a designarlos como tales y aprenda un consejo/gotcha muy importante.
+Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenderá a designarlos como tales y aprenderá una sugerencia/pregunta muy importante.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-¿Qué está intentando hacer que la gente haga en su sitio? What is your conversion event? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo de sitio o vertical y los objetivos de la organización. En cualquier caso, es común en AAM crear características para los visitantes que han cumplido estos criterios.
+¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. AAM En cualquier caso, es habitual en los visitantes crear rasgos para los visitantes que cumplen con esos criterios.
 
-En AAM, hay un campo en el que puede marcar su rasgo como un rasgo de conversión, especialmente para utilizarlo en [!UICONTROL Audience Lab].
+AAM En la práctica, hay un campo en el que puede marcar el rasgo como un rasgo de conversión, especialmente para su uso en [!UICONTROL Audience Lab].
 
-Además, al usar eventos para crear características, hay una gotcha importante que debe tener en cuenta para no recopilar más usuarios de los que debería en el rasgo. Vea este vídeo para ver la gran revelación.
+Además, cuando se utilizan eventos para crear características, hay una clave importante que debe tenerse en cuenta para que no se recopilen más usuarios de los que deberían en la característica. Mira este video para la gran revelación.

@@ -1,6 +1,6 @@
 ---
-title: Definir permisos con control de acceso basado en roles
-description: Obtenga información sobre el control de acceso basado en roles en Adobe Audience Manager y cómo administrar permisos a nivel de grupo. Descubra cómo controlar quién puede ver y trabajar con los recursos, incluidos rasgos, segmentos, destinos y modelos. Obtenga información sobre cómo configurar los grupos de permisos y agregarles usuarios.
+title: Definir permisos con control de acceso basado en funciones
+description: Obtenga información acerca del control de acceso basado en funciones en Adobe Audience Manager y cómo administrar permisos en el nivel de grupo. Descubra cómo controlar quién puede ver y trabajar con recursos, incluidos características, segmentos, destinos y modelos. Obtenga información sobre cómo configurar los grupos de permisos y agregarles usuarios.
 feature: Administration
 topics: null
 activity: setup
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Definir permisos con control de acceso basado en roles
+# Definir permisos con control de acceso basado en funciones
 
-El control de acceso basado en roles en Adobe Audience Manager le permite administrar permisos a nivel de grupo, controlando quién ve los recursos y trabaja con ellos, incluidos sus rasgos, segmentos, destinos y modelos. Obtenga información sobre cómo configurar los grupos de permisos y agregarles usuarios.
+El control de acceso basado en funciones en Adobe Audience Manager le permite administrar permisos en el nivel de grupo y controlar quién puede ver y trabajar con recursos, incluidos características, segmentos, destinos y modelos. Obtenga información sobre cómo configurar los grupos de permisos y agregarles usuarios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

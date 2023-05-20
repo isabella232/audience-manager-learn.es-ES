@@ -1,6 +1,6 @@
 ---
-title: Interpretación de los informes de identidad de audiencia
-description: Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de una característica o segmento según las definiciones de identidad de persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
+title: Interpretación de informes de identidad de audiencia
+description: Los informes de Identidad de audiencia permiten a los clientes informar sobre la población total de un rasgo o segmento según las definiciones de identidad de una persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes de Audience Manager.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Interpretación de informes de identidad de audiencia
 
-Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de una característica o segmento según las definiciones de identidad de persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
+Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de un rasgo o segmento según las definiciones de identidad de una persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes de Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: Excluir características en modelos algorítmicos (de similitud)
-description: 'Aprenda cómo y por qué excluir características específicas (o grupos de) de un modelo algorítmico (parecido). '
+title: Excluir rasgos en modelos algorítmicos (de similitud)
+description: Aprenda cómo y por qué excluir rasgos específicos (o grupos de) de un modelo algorítmico (de similitud).
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Excluir características en modelos algorítmicos (de similitud) {#excluding-traits-in-algorithmic-look-alike-models}
+# Excluir rasgos en modelos algorítmicos (de similitud) {#excluding-traits-in-algorithmic-look-alike-models}
 
-En este vídeo, aprenderá cómo y por qué excluir rasgos específicos (o grupos de) de un modelo algorítmico (parecido).
+En este vídeo, aprenderá cómo y por qué excluir rasgos específicos (o grupos de) de un modelo algorítmico (de similitud).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
-Algunos ejemplos prácticos de esta función son:
+Los casos de uso de esta función incluyen:
 
-* Rasgos extremadamente comunes como los rasgos de los visitantes del sitio influyen en el modelo, lo que no resulta útil para encontrar una audiencia de calidad similar. Los clientes ya no tienen que crear una fuente de datos independiente y almacenar características comunes en la nueva fuente de datos, pero ahora simplemente pueden excluirlos.
-* Ahora existe una forma de utilizar un subconjunto de rasgos de un tercero, como, por ejemplo, los intereses de comportamiento, en lugar de toda la información de un modelo. Los terceros suelen enviar muchos datos que pueden no ser útiles para el cliente. En algunos casos, no se les permitirá utilizar todos los datos desde una perspectiva legal en el modelado. Ahora puede excluir características o carpetas de características que no desea incluir en el modelo.
+* Los rasgos extremadamente comunes, como los rasgos de visitante del sitio, sesgan el modelo, lo que no será útil para encontrar una audiencia similar de calidad. Los clientes ya no tienen que crear una fuente de datos independiente y almacenar rasgos comunes en la nueva fuente de datos, pero ahora pueden excluirlos simplemente.
+* Ahora existe una forma de utilizar un subconjunto de rasgos de un tercero, como, por ejemplo, intereses de comportamiento, en lugar de toda la información de un modelo. Los terceros suelen enviar muchos datos que pueden no ser útiles para el cliente. En algunos casos, no se les permitirá utilizar todos los datos desde una perspectiva legal en el modelado. Ahora puede excluir rasgos o carpetas de rasgos que no desee incluir en el modelo.

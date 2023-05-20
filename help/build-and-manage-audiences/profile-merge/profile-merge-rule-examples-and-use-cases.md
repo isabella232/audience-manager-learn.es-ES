@@ -1,6 +1,6 @@
 ---
-title: Ejemplos de reglas de combinación de perfiles y casos de uso
-description: Obtenga información sobre ejemplos de reglas de combinación de perfiles y su significado, así como sobre los casos de uso que resuelven las reglas de combinación de perfiles.
+title: Ejemplos y casos de uso de reglas de combinación de perfiles
+description: Obtenga información acerca de ejemplos de reglas de combinación de perfiles y qué significan, así como los casos de uso que resuelven las reglas de combinación de perfiles.
 feature: Profile Merge
 topics: null
 activity: understand

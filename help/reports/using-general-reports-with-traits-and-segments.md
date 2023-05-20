@@ -1,6 +1,6 @@
 ---
-title: Usar informes generales con características y segmentos
-description: En este vídeo, vea cómo utilizar los informes generales en el Audience Manager para obtener números para rasgos y segmentos.
+title: Uso de informes generales con características y segmentos
+description: En este vídeo, vea cómo utilizar los informes generales en Audience Manager para obtener números de características y segmentos.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Usar informes generales con características y segmentos
+# Uso de informes generales con características y segmentos
 
-En este vídeo, vea cómo usar los informes generales en Audience Manager para obtener números para características y segmentos.
+En este vídeo, vea cómo utilizar los informes generales en Audience Manager para obtener números de características y segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

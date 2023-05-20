@@ -1,6 +1,6 @@
 ---
 title: Cree un segmento para suprimir los anuncios para los clientes
-description: Obtenga información sobre las opciones al crear un segmento para excluir a los clientes que ya se han convertido al estado de cliente. Al crear campañas de marketing, especialmente campañas de extensión de alcance y de extensión de audiencia, es posible que desee excluir a los clientes actuales para poder comercializarlos de forma distinta.
+description: Obtenga información sobre las opciones al crear un segmento para excluir a los clientes que ya se han convertido al estado de cliente. Al crear campañas de marketing, especialmente las campañas de extensión de alcance y de extensión de audiencia, es posible que desee excluir a los clientes actuales para poder comercializarlos de una manera diferente.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Cree un segmento para suprimir los anuncios para los clientes
 
-Al crear campañas de marketing, especialmente campañas de extensión de alcance/extensión de audiencia, es posible que quiera excluir a los clientes actuales para poder comercializarlos de forma diferente. En este vídeo se describen las opciones para crear segmentos con el fin de excluir a los que ya se han convertido al estado de cliente.
+Al crear campañas de marketing, especialmente las campañas de extensión de alcance y de extensión de audiencia, es posible que desee excluir a los clientes actuales para poder comercializarlos de una manera diferente. En este vídeo se describen las opciones para crear segmentos con el fin de excluir a los que ya se han convertido al estado de cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

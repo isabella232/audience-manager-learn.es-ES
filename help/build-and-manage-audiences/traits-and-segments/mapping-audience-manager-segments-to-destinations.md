@@ -1,5 +1,5 @@
 ---
-title: Asignación de segmentos del Audience Manager a los destinos
+title: Asignación de segmentos del Audience Manager a destinos
 description: Obtenga información sobre los distintos tipos de destinos en Audience Manager y los detalles de asignación de segmentos a cada tipo de destino.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Asignación de segmentos del Audience Manager a los destinos
+# Asignación de segmentos del Audience Manager a destinos
 
 Obtenga información sobre los distintos tipos de destinos en Audience Manager y los detalles de asignación de segmentos a cada tipo de destino.
 

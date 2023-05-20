@@ -1,5 +1,5 @@
 ---
-title: Comprender los números en el gráfico de rasgos
+title: Comprensión de los números en el gráfico de rasgos
 description: Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características.
 feature: Traits
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Comprender los números en el gráfico de rasgos
+# Comprensión de los números en el gráfico de rasgos
 
 Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características.
 

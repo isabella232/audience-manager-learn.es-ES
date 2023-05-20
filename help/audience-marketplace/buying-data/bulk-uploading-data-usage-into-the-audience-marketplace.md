@@ -1,6 +1,6 @@
 ---
-title: Uso de datos de carga masiva en el Audience Marketplace
-description: 'Al informar sobre el uso de datos de segundo nivel y de terceros en el Audience Marketplace, es posible que tenga suficientes entradas para asegurarse de que no desea hacerlo a mano. En este vídeo, aprenderá a utilizar la herramienta de carga masiva de informes de uso de datos para que pueda informar fácilmente sobre el uso de los datos, incluso si tiene muchos elementos que actualizar. '
+title: Uso de carga masiva de datos en Audience Marketplace
+description: A medida que informa del uso de datos de segundo nivel y de terceros en el Audience Marketplace, es posible que tenga suficientes entradas para comprobar que no desea hacerlo a mano. En este vídeo, aprenderá a utilizar la herramienta de carga masiva de informes de uso de datos para poder informar fácilmente sobre su uso de datos, incluso si tiene muchos elementos que actualizar.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Uso de datos de carga masiva en [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
+# Uso de carga masiva de datos en [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
-A medida que informa del uso de datos de segundo nivel y de terceros en la variable [!UICONTROL Audience Marketplace], puede que tenga suficientes entradas para hacer que no desee hacerlo a mano. En este vídeo, aprenderá a utilizar la herramienta de carga masiva de informes de uso de datos. Esta herramienta permite informar fácilmente sobre el uso de los datos, incluso si tiene muchos elementos que actualizar.
+A medida que informa sobre su uso de datos de segundo nivel y de terceros en la [!UICONTROL Audience Marketplace]Sin embargo, es posible que tenga suficientes entradas para hacer que no desee hacerlo a mano. En este vídeo, aprenderá a utilizar la herramienta de carga masiva de informes de uso de datos. Esta herramienta le permite informar fácilmente sobre su uso de datos, incluso si tiene muchos elementos que actualizar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
-Además de tener esta herramienta de carga masiva para simplificar y ahorrar tiempo en la generación de informes sobre el uso de sus datos, los clientes que compran datos de segundo nivel o de terceros de [!UICONTROL Audience Marketplace] se benefician de una política de atribución de costes mejorada. Esta nueva directiva atribuye costes a los proveedores de datos en función de los recuentos de usuarios únicos de características en un segmento basado en reglas, lo que da como resultado una mayor transparencia y una facturación equitativa del uso.
-Encontrará más información sobre el algoritmo de facturación en [Atribución de costes para fuentes de datos CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) en la documentación del producto.
+Además de disponer de esta herramienta de carga masiva para simplificar y ahorrar tiempo la creación de informes sobre el uso de los datos, los clientes que compren datos de segundo nivel o de terceros de [!UICONTROL Audience Marketplace] beneficiarse de una política de atribución de costes mejorada. Esta nueva política atribuye los costes a los proveedores de datos en función de los recuentos de usuarios únicos de las características de un segmento basado en reglas, lo que da como resultado una mayor transparencia y una facturación de uso equitativa.
+Puede encontrar más detalles sobre el algoritmo de facturación en [Atribución de costes para fuentes de datos de CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) en la documentación del producto.
 
-Para obtener más información sobre cómo informar sobre el uso de CPM, consulte [Cómo informar del uso de CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) en la documentación del producto.
+Para obtener más información sobre cómo informar del uso de CPM, consulte [Cómo informar sobre el uso de CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) en la documentación del producto.

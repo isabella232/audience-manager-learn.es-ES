@@ -1,6 +1,6 @@
 ---
 title: Configuración de BAAAM para la administración masiva de segmentos
-description: Obtenga información sobre BAAAM, la herramienta de administración masiva de características y segmentos en Audience Manager, incluida la configuración para prepararse para su uso.
+description: Obtenga información acerca de BAAAM, la herramienta de administración masiva para características y segmentos en Audience Manager, incluida la forma de configurarla para prepararse para su uso.
 feature: baaam
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Configuración de BAAAM para la administración masiva de segmentos
+# Configurar BAAAM para la administración masiva de segmentos
 
-Obtenga información sobre BAAAM, la herramienta de administración masiva de características y segmentos en Audience Manager, incluida la configuración para prepararse para su uso.
+Obtenga información acerca de BAAAM, la herramienta de administración masiva para características y segmentos en Audience Manager, incluida la forma de configurarla para prepararse para su uso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)

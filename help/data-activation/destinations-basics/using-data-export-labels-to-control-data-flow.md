@@ -1,6 +1,6 @@
 ---
-title: Usar etiquetas de exportación de datos para controlar el flujo de datos
-description: Obtenga información sobre las etiquetas de exportación de datos en Audience Manager. Esto le proporciona un mecanismo en Audience Manager para controlar el flujo de diferentes tipos de datos y fuentes, de modo que pueda satisfacer sus requisitos de privacidad. Aprenda cómo y dónde establecer los controles de exportación de datos y las etiquetas de exportación de datos para trabajar en conjunto con este fin.
+title: Uso de etiquetas de exportación de datos para controlar el flujo de datos
+description: Obtenga información sobre las etiquetas de exportación de datos en Audience Manager. Esto le proporciona un mecanismo en Audience Manager para controlar el flujo de diferentes tipos/fuentes de datos, de modo que pueda satisfacer sus requisitos de privacidad. Obtenga información sobre cómo y dónde establecer los controles de exportación de datos y las etiquetas de exportación de datos para trabajar en conjunto con este fin.
 feature: Data Export Controls
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Uso [!UICONTROL Data Export Labels] para controlar el flujo de datos
 
-[!UICONTROL Data Export Labels] proporcione un mecanismo en Audience Manager para controlar el flujo de distintos tipos de datos y fuentes, de modo que pueda satisfacer sus requisitos de privacidad. Obtenga información sobre cómo y dónde configurar [!UICONTROL Data Export Controls] y [!UICONTROL Data Export Labels], para trabajar conjuntamente con este fin.
+[!UICONTROL Data Export Labels] le proporciona un mecanismo en Audience Manager para controlar el flujo de diferentes tipos/fuentes de datos, de modo que pueda satisfacer sus requisitos de privacidad. Descubra cómo y dónde configurarlo [!UICONTROL Data Export Controls] y [!UICONTROL Data Export Labels], para trabajar en conjunto con este fin.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

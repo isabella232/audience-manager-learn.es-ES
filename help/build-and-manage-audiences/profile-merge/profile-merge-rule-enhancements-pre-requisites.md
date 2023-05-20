@@ -1,6 +1,6 @@
 ---
-title: 'Mejoras en la regla de combinación de perfiles: requisitos previos'
-description: Información general sobre cómo prepararse para la versión de las mejoras de las reglas de combinación de perfiles.
+title: 'Mejoras de reglas de combinación de perfiles: requisitos previos'
+description: Una visión general de cómo prepararse mejor para la versión de Mejoras en las reglas de combinación de perfiles.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] mejoras: requisitos previos
 
-Información general sobre cómo prepararse para la publicación de [!UICONTROL Profile Merge Rule] mejoras.
+Una visión general de cómo prepararse mejor para la publicación de [!UICONTROL Profile Merge Rule] mejoras.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

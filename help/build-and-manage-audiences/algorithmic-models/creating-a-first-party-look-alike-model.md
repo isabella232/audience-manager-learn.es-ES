@@ -1,6 +1,6 @@
 ---
 title: Creación de un modelo de similitud de origen
-description: En este vídeo aprenderá a crear un modelo de similitud de origen, de modo que pueda encontrar más visitantes que se parezcan a sus convertidores.
+description: En este vídeo aprenderá a crear un modelo de similitud de origen para que pueda encontrar más visitantes propios que se parezcan a sus convertidores.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ---
 
-# Creación de un modelo de similitud de origen en el Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
+# Creación de un modelo de similitud de origen en Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-En este vídeo aprenderá a crear un modelo de similitud de origen, de modo que pueda encontrar más visitantes que se parezcan a sus convertidores.
+En este vídeo aprenderá a crear un modelo de similitud de origen para que pueda encontrar más visitantes propios que se parezcan a sus convertidores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
-Algunos ejemplos prácticos de esto son:
+Los casos de uso para esto incluyen:
 
-* Como editor, si el inventario de &quot;convertidores&quot; está agotado, también puede ampliarlo vendiendo esta audiencia similar.
-* Para aquellos que se parecen a sus convertidores pero aún no lo han hecho, asígneles experiencias o marketing específicos en el sitio.
+* Como editor, si el inventario de &quot;convertidores&quot; está agotado, puede ampliarlo vendiendo también esta audiencia de similitud.
+* Para aquellos que se parecen a sus convertidores, pero aún no lo han hecho, ofrézcales experiencias o marketing específicos en el sitio.
 
-Una ventaja añadida aquí es que esto es totalmente gratuito para usted, ya que solo está utilizando datos de su propiedad. Esto, por supuesto, ayuda a maximizar sus ganancias.
+Una ventaja adicional es que es totalmente gratuito para usted, ya que solo utiliza los datos de su propiedad. Esto, por supuesto, ayuda a maximizar sus ganancias.

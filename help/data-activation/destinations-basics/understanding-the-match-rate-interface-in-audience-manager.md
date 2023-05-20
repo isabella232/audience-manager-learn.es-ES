@@ -1,6 +1,6 @@
 ---
-title: Comprender la interfaz de Tasa de coincidencia
-description: Obtenga información sobre la interfaz de destino, mostrando y explicando los números asociados a tasas de coincidencia y audiencias a las que se puede dirigir.
+title: Comprensión de la interfaz Tasa de coincidencia
+description: Obtenga información acerca de la interfaz de destino, que muestra y explica los números asociados con las tasas de coincidencia y las audiencias a las que se puede dirigir.
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Comprender la interfaz de Tasa de coincidencia en el Audience Manager
+# Comprensión de la interfaz Tasa de coincidencia en Audience Manager
 
-Este vídeo le guía por el [!UICONTROL Destination] , que muestra y explica los números asociados a tasas de coincidencia y audiencias a las que se puede dirigir.
+Este vídeo lo acompaña durante la [!UICONTROL Destination] , mostrando y explicando los números asociados con las tasas de coincidencia y las audiencias a las que se puede dirigir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Para obtener más información, visite [Audiencias a las que se puede dirigir](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) en la documentación del producto.
+Para obtener más información, visite [Audiencias a las que dirigirse](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) en la documentación del producto.

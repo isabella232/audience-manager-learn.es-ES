@@ -1,6 +1,6 @@
 ---
-title: Elegir un origen de datos al crear un segmento
-description: Obtenga información sobre algunas sugerencias para elegir la fuente de datos correcta al crear un segmento nuevo en Audience Manager.
+title: Elegir una fuente de datos al crear un segmento
+description: Conozca algunas sugerencias para elegir la fuente de datos correcta al crear un nuevo segmento en Audience Manager.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Elegir un origen de datos al crear un segmento
+# Elegir una fuente de datos al crear un segmento
 
-Obtenga información sobre algunas sugerencias para elegir la fuente de datos correcta al crear un segmento nuevo en Audience Manager.
+Conozca algunas sugerencias para elegir la fuente de datos correcta al crear un nuevo segmento en Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

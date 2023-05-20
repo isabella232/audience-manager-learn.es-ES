@@ -1,6 +1,6 @@
 ---
-title: Usar los administradores de etiquetas para implementar el Audience Manager
-description: Conozca los aspectos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
+title: Uso de administradores de etiquetas para implementar Audience Manager
+description: Conozca los conceptos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Usar los administradores de etiquetas para implementar el Audience Manager
+# Uso de administradores de etiquetas para implementar Audience Manager
 
 En este vídeo, aprenderá los conceptos básicos de la implementación de Adobe Audience Manager al utilizar una solución de administración de etiquetas.
 
 Se destacan los siguientes casos de uso:
 
-* Implementar mediante etiquetas de Adobe Experience Platform (anteriormente, Launch) al utilizar también Adobe Analytics
-* Implemente mediante etiquetas de Adobe Experience Platform cuando no utilice Adobe Analytics
+* Implemente mediante etiquetas de Adobe Experience Platform (anteriormente, Launch) cuando también utilice Adobe Analytics
+* Implementación mediante etiquetas de Adobe Experience Platform cuando no se utiliza Adobe Analytics
 * Implementar mediante un administrador de etiquetas que no sea de Adobe al utilizar Adobe Analytics
-* Implemente a través de un administrador de etiquetas que no sea de Adobe cuando no utilice Adobe Analytics
+* Implementar mediante un administrador de etiquetas que no sea de Adobe cuando no se utilice Adobe Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

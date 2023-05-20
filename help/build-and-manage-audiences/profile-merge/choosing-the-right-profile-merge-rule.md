@@ -1,6 +1,6 @@
 ---
 title: Elección de la regla de combinación de perfiles correcta
-description: En este vídeo, descubra tres de los casos de uso más comunes de las reglas de combinación de perfiles y cómo pueden ayudarle en sus esfuerzos de marketing.
+description: En este vídeo, descubra tres de los casos de uso más comunes de las reglas de combinación de perfiles y cómo pueden ayudarle en sus iniciativas de marketing.
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Elección de lo correcto [!UICONTROL Profile Merge Rule]
+# Elección del derecho [!UICONTROL Profile Merge Rule]
 
-En este vídeo, descubra tres de los casos de uso más comunes de [!UICONTROL Profile Merge Rules], y cómo pueden ayudarle en sus esfuerzos de marketing.
+En este vídeo, descubra tres de los casos de uso más comunes de [!UICONTROL Profile Merge Rules]y cómo pueden ayudarle en sus iniciativas de marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

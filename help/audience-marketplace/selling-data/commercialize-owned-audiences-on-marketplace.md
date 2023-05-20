@@ -1,5 +1,5 @@
 ---
-title: Comercializar audiencias propias en Marketplace
+title: Comercialización de audiencias propias en Marketplace
 description: En este vídeo aprenderá a configurar los datos como una fuente de datos pública o privada en el Audience Marketplace, lo que lo convierte en un proveedor de datos de segundo o tercer nivel.
 feature: Audience Marketplace
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Comercializar audiencias propias en Marketplace
+# Comercialización de audiencias propias en Marketplace
 
 En este vídeo, aprenderá a configurar los datos como una fuente de datos pública o privada en el Audience Marketplace, lo que lo convierte en un proveedor de datos de segundo nivel o de terceros.
 

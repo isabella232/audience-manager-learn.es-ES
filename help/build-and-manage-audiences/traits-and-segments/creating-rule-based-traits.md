@@ -1,6 +1,6 @@
 ---
 title: Crear un rasgo basado en reglas
-description: Aprenda a utilizar el Generador de rasgos en la interfaz de usuario del Audience Manager para crear un rasgo basado en reglas, lo que le permite capturar la actividad en tiempo real en perfiles del Audience Manager.
+description: Aprenda a utilizar el Generador de características en la interfaz de usuario de Audience Manager para crear una característica basada en reglas, lo que le permite capturar la actividad en tiempo real en perfiles de Audience Manager.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Crear un rasgo basado en reglas
 
-Aprenda a utilizar la variable [!UICONTROL Trait Builder] en la interfaz de usuario del Audience Manager para crear un rasgo basado en reglas, lo que le permite capturar la actividad en tiempo real en perfiles del Audience Manager.
+Aprenda a utilizar el [!UICONTROL Trait Builder] en la interfaz de usuario de Audience Manager para crear un rasgo basado en reglas, lo que le permite capturar la actividad en tiempo real en perfiles de Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

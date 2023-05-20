@@ -1,5 +1,5 @@
 ---
-title: Aspectos básicos de la creación de segmentos
+title: Conceptos básicos de creación de segmentos
 description: Consulte los campos de la interfaz de usuario para crear un segmento en Audience Manager.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Aspectos básicos de la creación de segmentos
+# Conceptos básicos de creación de segmentos
 
 Consulte los campos de la interfaz de usuario para crear un segmento en Audience Manager.
 

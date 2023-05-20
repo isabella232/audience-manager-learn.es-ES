@@ -1,6 +1,6 @@
 ---
-title: Comprender los números en el gráfico de segmentos
-description: Obtenga información sobre los números que aparecen en el gráfico de la pantalla de información del segmento.
+title: Comprensión de los números en el gráfico de segmentos
+description: Obtenga información acerca de los números que se muestran en el gráfico de la pantalla de información del segmento.
 feature: Segments
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Comprender los números en el gráfico de segmentos
+# Comprensión de los números en el gráfico de segmentos
 
-Obtenga información sobre los números que aparecen en el gráfico de la pantalla de información del segmento.
+Obtenga información acerca de los números que se muestran en el gráfico de la pantalla de información del segmento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)

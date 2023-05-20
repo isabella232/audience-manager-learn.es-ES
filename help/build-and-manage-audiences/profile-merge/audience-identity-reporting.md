@@ -1,6 +1,6 @@
 ---
 title: Informes de identidad de audiencia
-description: Obtenga información sobre los informes de identidad de audiencia. Este tipo de informes en Audience Manager le permite informar sobre la población total de una característica o segmento por persona o unidad familiar.
+description: Obtenga información sobre los informes de identidad de audiencia. Este tipo de creación de informes en Audience Manager le permite crear informes sobre la población total de un rasgo o segmento según las definiciones de identidad personales o familiares.
 feature: profile merge
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Informes de identidad de audiencia
 
-Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de una característica o segmento según las definiciones de identidad de persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes del Audience Manager.
+Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de un rasgo o segmento según las definiciones de identidad de una persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes de Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

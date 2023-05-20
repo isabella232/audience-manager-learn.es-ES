@@ -1,6 +1,6 @@
 ---
-title: Ingesta de datos basados en archivos
-description: En este vídeo, aprenderá los pasos a seguir a medida que incorpora datos sin conexión en Audience Manager, incluidos los requisitos de nombre de archivo para el archivo de datos.
+title: Cómo introducir datos basados en archivos
+description: En este vídeo, aprenderá los pasos a seguir a medida que incorpore datos sin conexión en Audience Manager, incluidos los requisitos de nombre de archivo para el archivo de datos.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Pasos para la ingesta de datos basados en archivos
 
-En este vídeo, aprenderá los pasos a seguir a medida que incorpora datos sin conexión en Audience Manager, incluidos los requisitos de nombre de archivo para el archivo de datos.
+En este vídeo, aprenderá los pasos a seguir a medida que incorpore datos sin conexión en Audience Manager, incluidos los requisitos de nombre de archivo para el archivo de datos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-Para ver un vídeo sobre el formato de datos para archivos entrantes, haga clic en [AQUÍ](formatting-and-ingesting-file-based-data.md).
+Para ver un vídeo sobre el formato de datos de los archivos de entrada, haga clic en [AQUÍ](formatting-and-ingesting-file-based-data.md).
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

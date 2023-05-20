@@ -1,6 +1,6 @@
 ---
-title: Información general sobre las mejoras de las reglas de combinación de perfiles
-description: En este vídeo se describen las mejoras realizadas en las reglas de combinación de perfiles, publicadas en octubre de 2019.
+title: Descripción general de las mejoras de reglas de combinación de perfiles
+description: En este vídeo se explican las mejoras realizadas en las reglas de combinación de perfiles en octubre de 2019.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Información general sobre [!UICONTROL Profile Merge Rule] mejoras
+# Información general de [!UICONTROL Profile Merge Rule] mejoras
 
 En este vídeo se explican las mejoras realizadas en [!UICONTROL Profile Merge Rules], publicado en octubre de 2019.
 

@@ -1,6 +1,6 @@
 ---
-title: Creación de una taxonomía de características
-description: Obtenga información sobre cómo crear estructuras de carpetas que tengan sus características en Audience Manager.
+title: Creación de una taxonomía de rasgos
+description: Obtenga información sobre cómo crear estructuras de carpetas que tengan sus rasgos en Audience Manager.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Creación de una taxonomía de características
+# Creación de una taxonomía de rasgos
 
-Obtenga información sobre cómo crear estructuras de carpetas que tengan sus características en Audience Manager.
+Obtenga información sobre cómo crear estructuras de carpetas que tengan sus rasgos en Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

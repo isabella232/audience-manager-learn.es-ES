@@ -1,6 +1,6 @@
 ---
-title: Prácticas recomendadas en páginas SPA al enviar datos a AAM
-description: Conozca las prácticas recomendadas para enviar datos desde aplicaciones de una sola página (SPA) a Adobe Audience Manager (AAM). Este artículo se centra en el uso de etiquetas de Experience Platform, el método de implementación recomendado.
+title: SPA AAM Siga las prácticas recomendadas en las páginas de al enviar datos a los usuarios de la red de correo electrónico
+description: SPA Conozca las prácticas recomendadas para enviar datos de aplicaciones de una sola página () a Adobe Audience Manager AAM (). Este artículo se centra en el uso de etiquetas de Experience Platform, el método de implementación recomendado.
 feature: Implementation Basics
 topics: spa
 activity: implement
@@ -18,49 +18,49 @@ ht-degree: 0%
 
 ---
 
-# Prácticas recomendadas en páginas SPA al enviar datos a AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# SPA AAM Siga las prácticas recomendadas en las páginas de al enviar datos a los usuarios de la red de correo electrónico {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
-En este documento se describen varias prácticas recomendadas para enviar datos de aplicaciones de una sola página (SPA) a Adobe Audience Manager (AAM). Este artículo se centra en el uso de [!UICONTROL Experience Platform tags], el método de implementación recomendado.
+SPA En este documento se describen varias prácticas recomendadas para enviar datos de aplicaciones de una sola página () a Adobe Audience Manager AAM (). Este artículo explica cómo usar [!UICONTROL Experience Platform tags], el método de implementación recomendado.
 
 ## Notas iniciales
 
-* Los elementos siguientes supondrán que está utilizando etiquetas de Platform para implementar en el sitio. Las consideraciones siguen existiendo si no utiliza etiquetas de Platform, pero tendría que adaptarlas al método de implementación.
-* Todos los SPA son diferentes, por lo que es posible que tenga que modificar algunos de los siguientes elementos para que se ajusten mejor a sus necesidades, pero Adobe desea compartir algunas prácticas recomendadas que debe tener en cuenta a medida que envía datos de SPA páginas al Audience Manager.
+* Los elementos siguientes asumirán que está utilizando etiquetas de Platform para implementar en el sitio. Las consideraciones siguen existiendo si no utiliza etiquetas de Platform, pero deberá adaptarlas al método de implementación.
+* SPA Todos los elementos son diferentes, por lo que es posible que tenga que modificar algunos de los siguientes elementos para adaptarlos a sus necesidades, pero Adobe SPA desea compartir algunas prácticas recomendadas que debe tener en cuenta a medida que envía datos de páginas de a Audience Manager.
 
-## Diagrama sencillo del trabajo con SPA y AAM en etiquetas de Experience Platform (anteriormente, Launch){#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
+## SPA AAM Diagrama sencillo del trabajo con las etiquetas de Experience Platform de las etiquetas de los y las etiquetas (anteriormente, Launch){#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
 ![spa para aam en etiquetas](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->Como se ha indicado, este es un diagrama simplificado de cómo se gestionan las páginas SPA en una implementación de Adobe Audience Manager (sin Adobe Analytics) mediante etiquetas de Platform. Como puede ver, es bastante directo, con la gran decisión de cómo va a comunicar un cambio de vista (o una acción) a las etiquetas de Platform.
+>SPA Como se ha indicado, este es un diagrama simplificado de cómo se gestionan las páginas de la plataforma en una implementación de Adobe Audience Manager (sin Adobe Analytics) mediante etiquetas de plataforma. Como puede ver, es bastante sencillo, y la gran decisión es cómo va a comunicar un cambio de vista (o una acción) a las etiquetas de Platform.
 
-## Activación de etiquetas desde la página SPA {#triggering-launch-from-the-spa-page}
+## SPA Activación de etiquetas desde la página de {#triggering-launch-from-the-spa-page}
 
-Dos de los métodos más comunes para activar una regla en etiquetas de Platform (y, por lo tanto, enviar datos al Audience Manager) son:
+Dos de los métodos más comunes para activar una regla en las etiquetas de Platform (y, por lo tanto, enviar datos al Audience Manager) son:
 
-* Configuración de eventos personalizados de JavaScript (consulte el ejemplo [AQUÍ](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) con Adobe Analytics)
+* Configuración de eventos personalizados de JavaScript (consulte el ejemplo) [AQUÍ](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) con Adobe Analytics)
 * Uso de un [!UICONTROL Direct Call Rule]
 
-En este ejemplo de Audience Manager, se utiliza un [!UICONTROL Direct Call rule] en las etiquetas de Platform para almacenar en déclencheur la visita que se entra en Audience Manager. Como verá en las secciones siguientes, esto resulta útil si configura la variable [!UICONTROL Data Layer] a un nuevo valor, de modo que el [!UICONTROL Data Element] en las etiquetas de Platform.
+En este ejemplo de Audience Manager, se utiliza un [!UICONTROL Direct Call rule] en las etiquetas de Platform para almacenar en déclencheur la visita que se va a Audience Manager. Como verá en las secciones siguientes, esto resulta útil configurando la variable [!UICONTROL Data Layer] a un nuevo valor, de modo que pueda ser recogido por el [!UICONTROL Data Element] en las etiquetas de Platform.
 
 ## Página de demostración {#demo-page}
 
-Esta es una pequeña página que muestra cómo cambiar un valor en la capa de datos y enviarlo al Audience Manager, como puede hacer en una página SPA. Esta funcionalidad se puede modelar para realizar cambios más detallados y necesarios. Puede encontrar esta página de demostración [AQUÍ](https://aam.enablementadobe.com/SPA-Launch.html).
+Esta es una pequeña página que muestra cómo cambiar un valor en la capa de datos y enviarlo al Audience Manager SPA, como puede hacer en una página de. Esta funcionalidad se puede modelar para realizar cambios más elaborados. Puede encontrar esta página de demostración [AQUÍ](https://aam.enablementadobe.com/SPA-Launch.html).
 
 ## Configuración de la capa de datos {#setting-the-data-layer}
 
-Como se ha mencionado, cuando se carga contenido nuevo en la página o cuando alguien realiza una acción en el sitio, la capa de datos debe configurarse dinámicamente en el encabezado de la página ANTES de que se llame a las etiquetas de plataforma y ejecute la [!UICONTROL rules], de modo que las etiquetas de Platform puedan recoger los nuevos valores de la capa de datos e insertarlos en el Audience Manager.
+Como se ha mencionado, cuando se carga contenido nuevo en la página o cuando alguien realiza una acción en el sitio, la capa de datos debe configurarse dinámicamente en el encabezado de la página ANTES de que se llame a las etiquetas de Platform y se ejecute el [!UICONTROL rules], para que las etiquetas de Platform puedan recoger los nuevos valores de la capa de datos e insertarlos en el Audience Manager.
 
-Si va al sitio de demostración enumerado arriba y mira el origen de la página, verá:
+Si va al sitio de demostración mencionado anteriormente y mira el origen de la página, verá lo siguiente:
 
-* La capa de datos está en el encabezado de la página, antes de la llamada a las etiquetas de Platform
-* El JavaScript en el vínculo SPA simulado cambia la variable [!UICONTROL Data Layer]y, a continuación, llama a las etiquetas de Platform (la variable `_satellite.track()` ). Si utilizaba eventos personalizados de JavaScript en lugar de [!UICONTROL Direct Call Rule], la lección es la misma. En primer lugar, cambie la variable [!DNL data layer]y, a continuación, llame a las etiquetas de Platform.
+* La capa de datos se encuentra en el encabezado de la página, antes de la llamada a las etiquetas de Platform
+* SPA El código JavaScript del vínculo de la aplicación de simulación de la aplicación cambia el valor de [!UICONTROL Data Layer]y, a continuación, llama a las etiquetas de Platform (el `_satellite.track()` llamada). Si utilizara eventos personalizados de JavaScript en lugar de esto [!UICONTROL Direct Call Rule], la lección es la misma. Primero cambie la [!DNL data layer]y, a continuación, llame a las etiquetas de Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Otros recursos {#additional-resources}
 
-* [SPA debate sobre los foros del Adobe](https://forums.adobe.com/thread/2451022)
-* [Sitios de arquitectura de referencia para mostrar cómo implementar SPA en etiquetas de plataforma](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
-* [Prácticas recomendadas al rastrear SPA en Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
-* [Sitio de muestra utilizado para este artículo](https://aam.enablementadobe.com/SPA-Launch.html)
+* [SPA discusión en los foros de Adobe de la comunidad](https://forums.adobe.com/thread/2451022)
+* [SPA Sitios de arquitectura de referencia para mostrar cómo implementar etiquetas de en Platform.](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [SPA Uso de las prácticas recomendadas al rastrear el seguimiento de los datos en Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
+* [Sitio de demostración utilizado para este artículo](https://aam.enablementadobe.com/SPA-Launch.html)

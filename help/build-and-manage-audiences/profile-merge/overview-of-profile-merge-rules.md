@@ -1,7 +1,7 @@
 ---
 title: Descripción general de las reglas de combinación de perfiles
-description: Comprenda cuáles son las reglas de combinación de perfiles, cómo funcionan y su valor para el especialista en marketing.
-feature: Combinación de perfiles
+description: Comprenda qué son las reglas de combinación de perfiles, cómo funcionan y su valor para el experto en marketing.
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,13 +13,13 @@ level: Intermediate
 exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
 # Información general de [!UICONTROL Profile Merge Rules]
 
-Comprenda qué son los [!UICONTROL Profile Merge Rules], cómo funcionan y su valor para el experto en marketing.
+Comprender lo que [!UICONTROL Profile Merge Rules] son, cómo funcionan y su valor para el experto en marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

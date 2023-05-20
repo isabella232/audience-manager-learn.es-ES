@@ -1,6 +1,6 @@
 ---
 title: Comprender las tasas de coincidencia
-description: Obtenga información sobre las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. Además, conozca las prácticas recomendadas, así como qué puede causar una tasa de coincidencia baja.
+description: Obtenga información sobre las tasas de coincidencia en Adobe Audience Manager, qué son y cómo se calculan. Conozca también las prácticas recomendadas, así como las que pueden causar una tasa de coincidencia baja.
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Comprender las tasas de coincidencia
 
-Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, cuáles son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como lo que puede causar una tasa de coincidencia baja.
+Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, qué son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como qué puede causar una tasa de coincidencia baja.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
