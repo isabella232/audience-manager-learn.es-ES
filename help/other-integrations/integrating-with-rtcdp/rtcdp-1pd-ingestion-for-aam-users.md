@@ -1,7 +1,7 @@
 ---
 title: Explicación de la ingesta de datos de origen en CDP en tiempo real para usuarios de Audience Manager
 description: Este vídeo analiza la ingesta de datos de origen sin conexión en Real-time Customer Data Platform (CDP en tiempo real) para aquellos que han estado utilizando Adobe Audience Manager. Observamos algunas de las principales diferencias entre los dos productos con respecto a la ingesta de datos y mostramos cómo se puede utilizar el conector de datos del Audience Manager como un parche hasta que los procesos se hayan trasladado a CDP en tiempo real.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
 exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

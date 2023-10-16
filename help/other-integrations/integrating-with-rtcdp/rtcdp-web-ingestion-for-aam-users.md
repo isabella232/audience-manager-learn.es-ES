@@ -1,7 +1,7 @@
 ---
 title: Explicación de la ingesta de datos web en CDP en tiempo real para usuarios de Audience Manager
 description: Este vídeo muestra a los usuarios Audience Manager los conceptos relativos a la introducción de datos de sitios web en Real-time Customer Data Platform (CDP en tiempo real) e incluye un contacto de alto nivel sobre dónde se adapta el conector de datos Audience Manager, así como la forma en que los datos pueden moverse del sitio web directamente a través del SDK web al CDP en tiempo real.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 3%
